@@ -1,0 +1,7454 @@
+[
+  {
+    "id": "alert-0",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 0",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889122Z",
+    "vehicleId": "vehicle-71",
+    "location": {
+      "latitude": "-75.714852",
+      "longitude": "42.952255"
+    }
+  },
+  {
+    "id": "alert-1",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 1",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889143Z",
+    "vehicleId": "vehicle-69",
+    "location": {
+      "latitude": "10.271183",
+      "longitude": "-54.272574"
+    }
+  },
+  {
+    "id": "alert-2",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 2",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889153Z",
+    "vehicleId": "vehicle-60",
+    "location": {
+      "latitude": "13.586719",
+      "longitude": "-89.107148"
+    }
+  },
+  {
+    "id": "alert-3",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 3",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889160Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "-49.137949",
+      "longitude": "-18.185856"
+    }
+  },
+  {
+    "id": "alert-4",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 4",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889170Z",
+    "vehicleId": "vehicle-87",
+    "location": {
+      "latitude": "-28.535186",
+      "longitude": "-174.659620"
+    }
+  },
+  {
+    "id": "alert-5",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 5",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889178Z",
+    "vehicleId": "vehicle-10",
+    "location": {
+      "latitude": "33.919164",
+      "longitude": "-81.555915"
+    }
+  },
+  {
+    "id": "alert-6",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 6",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889185Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "57.771928",
+      "longitude": "-50.736337"
+    }
+  },
+  {
+    "id": "alert-7",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 7",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889193Z",
+    "vehicleId": "vehicle-38",
+    "location": {
+      "latitude": "-28.683302",
+      "longitude": "7.757507"
+    }
+  },
+  {
+    "id": "alert-8",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 8",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889203Z",
+    "vehicleId": "vehicle-86",
+    "location": {
+      "latitude": "58.804735",
+      "longitude": "-99.117311"
+    }
+  },
+  {
+    "id": "alert-9",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 9",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889209Z",
+    "vehicleId": "vehicle-15",
+    "location": {
+      "latitude": "-0.937758",
+      "longitude": "-155.450808"
+    }
+  },
+  {
+    "id": "alert-10",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 10",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889312Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "54.840850",
+      "longitude": "-82.324153"
+    }
+  },
+  {
+    "id": "alert-11",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 11",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889337Z",
+    "vehicleId": "vehicle-79",
+    "location": {
+      "latitude": "-64.550157",
+      "longitude": "0.352511"
+    }
+  },
+  {
+    "id": "alert-12",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 12",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889345Z",
+    "vehicleId": "vehicle-92",
+    "location": {
+      "latitude": "52.632546",
+      "longitude": "79.911512"
+    }
+  },
+  {
+    "id": "alert-13",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 13",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889350Z",
+    "vehicleId": "vehicle-90",
+    "location": {
+      "latitude": "-19.404987",
+      "longitude": "-22.491558"
+    }
+  },
+  {
+    "id": "alert-14",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 14",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889355Z",
+    "vehicleId": "vehicle-84",
+    "location": {
+      "latitude": "-30.673264",
+      "longitude": "164.723657"
+    }
+  },
+  {
+    "id": "alert-15",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 15",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889360Z",
+    "vehicleId": "vehicle-6",
+    "location": {
+      "latitude": "-73.475425",
+      "longitude": "158.298913"
+    }
+  },
+  {
+    "id": "alert-16",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 16",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889365Z",
+    "vehicleId": "vehicle-60",
+    "location": {
+      "latitude": "32.721783",
+      "longitude": "-153.258291"
+    }
+  },
+  {
+    "id": "alert-17",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 17",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889372Z",
+    "vehicleId": "vehicle-3",
+    "location": {
+      "latitude": "-14.471780",
+      "longitude": "-140.394598"
+    }
+  },
+  {
+    "id": "alert-18",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 18",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889378Z",
+    "vehicleId": "vehicle-66",
+    "location": {
+      "latitude": "2.946973",
+      "longitude": "-78.293242"
+    }
+  },
+  {
+    "id": "alert-19",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 19",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889384Z",
+    "vehicleId": "vehicle-19",
+    "location": {
+      "latitude": "-28.984371",
+      "longitude": "75.133354"
+    }
+  },
+  {
+    "id": "alert-20",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 20",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889389Z",
+    "vehicleId": "vehicle-25",
+    "location": {
+      "latitude": "-40.514195",
+      "longitude": "154.438239"
+    }
+  },
+  {
+    "id": "alert-21",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 21",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889394Z",
+    "vehicleId": "vehicle-90",
+    "location": {
+      "latitude": "88.431730",
+      "longitude": "-112.052959"
+    }
+  },
+  {
+    "id": "alert-22",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 22",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889400Z",
+    "vehicleId": "vehicle-23",
+    "location": {
+      "latitude": "8.496794",
+      "longitude": "71.928079"
+    }
+  },
+  {
+    "id": "alert-23",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 23",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889410Z",
+    "vehicleId": "vehicle-19",
+    "location": {
+      "latitude": "6.588574",
+      "longitude": "-38.253491"
+    }
+  },
+  {
+    "id": "alert-24",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 24",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889416Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "67.470963",
+      "longitude": "6.269050"
+    }
+  },
+  {
+    "id": "alert-25",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 25",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889422Z",
+    "vehicleId": "vehicle-14",
+    "location": {
+      "latitude": "-62.811869",
+      "longitude": "69.558455"
+    }
+  },
+  {
+    "id": "alert-26",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 26",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889428Z",
+    "vehicleId": "vehicle-68",
+    "location": {
+      "latitude": "87.234623",
+      "longitude": "24.811670"
+    }
+  },
+  {
+    "id": "alert-27",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 27",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889434Z",
+    "vehicleId": "vehicle-5",
+    "location": {
+      "latitude": "-78.484981",
+      "longitude": "-167.356890"
+    }
+  },
+  {
+    "id": "alert-28",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 28",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889440Z",
+    "vehicleId": "vehicle-8",
+    "location": {
+      "latitude": "-61.527061",
+      "longitude": "173.135727"
+    }
+  },
+  {
+    "id": "alert-29",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 29",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889451Z",
+    "vehicleId": "vehicle-10",
+    "location": {
+      "latitude": "-36.638305",
+      "longitude": "164.025695"
+    }
+  },
+  {
+    "id": "alert-30",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 30",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889456Z",
+    "vehicleId": "vehicle-59",
+    "location": {
+      "latitude": "-79.686689",
+      "longitude": "-44.360610"
+    }
+  },
+  {
+    "id": "alert-31",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 31",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889461Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "-66.567432",
+      "longitude": "-148.683223"
+    }
+  },
+  {
+    "id": "alert-32",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 32",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889466Z",
+    "vehicleId": "vehicle-61",
+    "location": {
+      "latitude": "84.386899",
+      "longitude": "27.692665"
+    }
+  },
+  {
+    "id": "alert-33",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 33",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889472Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "-81.702143",
+      "longitude": "-111.482733"
+    }
+  },
+  {
+    "id": "alert-34",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 34",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889479Z",
+    "vehicleId": "vehicle-54",
+    "location": {
+      "latitude": "33.037982",
+      "longitude": "-35.940917"
+    }
+  },
+  {
+    "id": "alert-35",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 35",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889485Z",
+    "vehicleId": "vehicle-100",
+    "location": {
+      "latitude": "56.092759",
+      "longitude": "-148.998793"
+    }
+  },
+  {
+    "id": "alert-36",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 36",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889490Z",
+    "vehicleId": "vehicle-98",
+    "location": {
+      "latitude": "-54.671684",
+      "longitude": "-26.262223"
+    }
+  },
+  {
+    "id": "alert-37",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 37",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889496Z",
+    "vehicleId": "vehicle-95",
+    "location": {
+      "latitude": "59.428882",
+      "longitude": "-93.359937"
+    }
+  },
+  {
+    "id": "alert-38",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 38",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889500Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "-51.842592",
+      "longitude": "83.154306"
+    }
+  },
+  {
+    "id": "alert-39",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 39",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889507Z",
+    "vehicleId": "vehicle-25",
+    "location": {
+      "latitude": "-54.892651",
+      "longitude": "163.888563"
+    }
+  },
+  {
+    "id": "alert-40",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 40",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889512Z",
+    "vehicleId": "vehicle-87",
+    "location": {
+      "latitude": "34.296510",
+      "longitude": "-85.629945"
+    }
+  },
+  {
+    "id": "alert-41",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 41",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889518Z",
+    "vehicleId": "vehicle-3",
+    "location": {
+      "latitude": "7.376539",
+      "longitude": "168.612950"
+    }
+  },
+  {
+    "id": "alert-42",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 42",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889524Z",
+    "vehicleId": "vehicle-62",
+    "location": {
+      "latitude": "39.411567",
+      "longitude": "19.523050"
+    }
+  },
+  {
+    "id": "alert-43",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 43",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889530Z",
+    "vehicleId": "vehicle-82",
+    "location": {
+      "latitude": "37.996298",
+      "longitude": "-102.023110"
+    }
+  },
+  {
+    "id": "alert-44",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 44",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889536Z",
+    "vehicleId": "vehicle-9",
+    "location": {
+      "latitude": "53.143100",
+      "longitude": "78.367494"
+    }
+  },
+  {
+    "id": "alert-45",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 45",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889544Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "61.444306",
+      "longitude": "26.474835"
+    }
+  },
+  {
+    "id": "alert-46",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 46",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889549Z",
+    "vehicleId": "vehicle-50",
+    "location": {
+      "latitude": "10.550369",
+      "longitude": "162.755625"
+    }
+  },
+  {
+    "id": "alert-47",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 47",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889554Z",
+    "vehicleId": "vehicle-98",
+    "location": {
+      "latitude": "-45.116949",
+      "longitude": "82.115598"
+    }
+  },
+  {
+    "id": "alert-48",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 48",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889566Z",
+    "vehicleId": "vehicle-31",
+    "location": {
+      "latitude": "-69.835266",
+      "longitude": "-27.756357"
+    }
+  },
+  {
+    "id": "alert-49",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 49",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889571Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "6.744271",
+      "longitude": "141.343401"
+    }
+  },
+  {
+    "id": "alert-50",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 50",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889576Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "-78.437321",
+      "longitude": "-147.307886"
+    }
+  },
+  {
+    "id": "alert-51",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 51",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889581Z",
+    "vehicleId": "vehicle-94",
+    "location": {
+      "latitude": "-5.733607",
+      "longitude": "71.196967"
+    }
+  },
+  {
+    "id": "alert-52",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 52",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889587Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "-20.073387",
+      "longitude": "98.002856"
+    }
+  },
+  {
+    "id": "alert-53",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 53",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889592Z",
+    "vehicleId": "vehicle-43",
+    "location": {
+      "latitude": "19.780313",
+      "longitude": "110.075641"
+    }
+  },
+  {
+    "id": "alert-54",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 54",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889597Z",
+    "vehicleId": "vehicle-86",
+    "location": {
+      "latitude": "25.134991",
+      "longitude": "42.040612"
+    }
+  },
+  {
+    "id": "alert-55",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 55",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889610Z",
+    "vehicleId": "vehicle-19",
+    "location": {
+      "latitude": "-20.075499",
+      "longitude": "25.796135"
+    }
+  },
+  {
+    "id": "alert-56",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 56",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889616Z",
+    "vehicleId": "vehicle-87",
+    "location": {
+      "latitude": "-89.265451",
+      "longitude": "179.792085"
+    }
+  },
+  {
+    "id": "alert-57",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 57",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889623Z",
+    "vehicleId": "vehicle-59",
+    "location": {
+      "latitude": "84.493738",
+      "longitude": "-80.537783"
+    }
+  },
+  {
+    "id": "alert-58",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 58",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889629Z",
+    "vehicleId": "vehicle-43",
+    "location": {
+      "latitude": "-85.838262",
+      "longitude": "-126.930738"
+    }
+  },
+  {
+    "id": "alert-59",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 59",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889634Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "68.121611",
+      "longitude": "153.713895"
+    }
+  },
+  {
+    "id": "alert-60",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 60",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889639Z",
+    "vehicleId": "vehicle-86",
+    "location": {
+      "latitude": "49.271804",
+      "longitude": "-60.891761"
+    }
+  },
+  {
+    "id": "alert-61",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 61",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889644Z",
+    "vehicleId": "vehicle-78",
+    "location": {
+      "latitude": "-40.101676",
+      "longitude": "-166.031772"
+    }
+  },
+  {
+    "id": "alert-62",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 62",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889648Z",
+    "vehicleId": "vehicle-29",
+    "location": {
+      "latitude": "36.996186",
+      "longitude": "65.813092"
+    }
+  },
+  {
+    "id": "alert-63",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 63",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889653Z",
+    "vehicleId": "vehicle-92",
+    "location": {
+      "latitude": "-1.362466",
+      "longitude": "-173.608475"
+    }
+  },
+  {
+    "id": "alert-64",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 64",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889658Z",
+    "vehicleId": "vehicle-5",
+    "location": {
+      "latitude": "2.612762",
+      "longitude": "-72.879086"
+    }
+  },
+  {
+    "id": "alert-65",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 65",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889664Z",
+    "vehicleId": "vehicle-16",
+    "location": {
+      "latitude": "-51.757223",
+      "longitude": "157.379534"
+    }
+  },
+  {
+    "id": "alert-66",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 66",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889672Z",
+    "vehicleId": "vehicle-35",
+    "location": {
+      "latitude": "-0.184203",
+      "longitude": "179.205940"
+    }
+  },
+  {
+    "id": "alert-67",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 67",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889677Z",
+    "vehicleId": "vehicle-37",
+    "location": {
+      "latitude": "-44.894288",
+      "longitude": "2.285917"
+    }
+  },
+  {
+    "id": "alert-68",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 68",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889685Z",
+    "vehicleId": "vehicle-40",
+    "location": {
+      "latitude": "-19.114861",
+      "longitude": "-101.607595"
+    }
+  },
+  {
+    "id": "alert-69",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 69",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889693Z",
+    "vehicleId": "vehicle-34",
+    "location": {
+      "latitude": "7.201646",
+      "longitude": "30.909269"
+    }
+  },
+  {
+    "id": "alert-70",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 70",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889699Z",
+    "vehicleId": "vehicle-10",
+    "location": {
+      "latitude": "-27.984372",
+      "longitude": "33.161979"
+    }
+  },
+  {
+    "id": "alert-71",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 71",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889705Z",
+    "vehicleId": "vehicle-33",
+    "location": {
+      "latitude": "81.122835",
+      "longitude": "-137.620727"
+    }
+  },
+  {
+    "id": "alert-72",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 72",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889711Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "54.927463",
+      "longitude": "19.975169"
+    }
+  },
+  {
+    "id": "alert-73",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 73",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889717Z",
+    "vehicleId": "vehicle-56",
+    "location": {
+      "latitude": "67.718491",
+      "longitude": "18.462846"
+    }
+  },
+  {
+    "id": "alert-74",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 74",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889722Z",
+    "vehicleId": "vehicle-86",
+    "location": {
+      "latitude": "-64.856878",
+      "longitude": "69.606453"
+    }
+  },
+  {
+    "id": "alert-75",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 75",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889727Z",
+    "vehicleId": "vehicle-62",
+    "location": {
+      "latitude": "-43.048829",
+      "longitude": "76.151843"
+    }
+  },
+  {
+    "id": "alert-76",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 76",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889736Z",
+    "vehicleId": "vehicle-84",
+    "location": {
+      "latitude": "-51.329754",
+      "longitude": "-139.930014"
+    }
+  },
+  {
+    "id": "alert-77",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 77",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889741Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "53.503784",
+      "longitude": "-106.068822"
+    }
+  },
+  {
+    "id": "alert-78",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 78",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889746Z",
+    "vehicleId": "vehicle-99",
+    "location": {
+      "latitude": "-33.078598",
+      "longitude": "-3.826125"
+    }
+  },
+  {
+    "id": "alert-79",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 79",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889751Z",
+    "vehicleId": "vehicle-97",
+    "location": {
+      "latitude": "19.712542",
+      "longitude": "-50.930460"
+    }
+  },
+  {
+    "id": "alert-80",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 80",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889759Z",
+    "vehicleId": "vehicle-17",
+    "location": {
+      "latitude": "-70.629036",
+      "longitude": "-117.881771"
+    }
+  },
+  {
+    "id": "alert-81",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 81",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889764Z",
+    "vehicleId": "vehicle-49",
+    "location": {
+      "latitude": "-35.881566",
+      "longitude": "-3.305247"
+    }
+  },
+  {
+    "id": "alert-82",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 82",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889769Z",
+    "vehicleId": "vehicle-79",
+    "location": {
+      "latitude": "44.840173",
+      "longitude": "5.778425"
+    }
+  },
+  {
+    "id": "alert-83",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 83",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889774Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "-64.805500",
+      "longitude": "-12.287066"
+    }
+  },
+  {
+    "id": "alert-84",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 84",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889779Z",
+    "vehicleId": "vehicle-61",
+    "location": {
+      "latitude": "-53.061868",
+      "longitude": "118.188519"
+    }
+  },
+  {
+    "id": "alert-85",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 85",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889784Z",
+    "vehicleId": "vehicle-27",
+    "location": {
+      "latitude": "-80.494195",
+      "longitude": "-104.939326"
+    }
+  },
+  {
+    "id": "alert-86",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 86",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889789Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "45.586558",
+      "longitude": "56.409277"
+    }
+  },
+  {
+    "id": "alert-87",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 87",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889801Z",
+    "vehicleId": "vehicle-60",
+    "location": {
+      "latitude": "66.499561",
+      "longitude": "9.999900"
+    }
+  },
+  {
+    "id": "alert-88",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 88",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889809Z",
+    "vehicleId": "vehicle-56",
+    "location": {
+      "latitude": "27.261979",
+      "longitude": "139.587243"
+    }
+  },
+  {
+    "id": "alert-89",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 89",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889814Z",
+    "vehicleId": "vehicle-27",
+    "location": {
+      "latitude": "44.464444",
+      "longitude": "-51.839686"
+    }
+  },
+  {
+    "id": "alert-90",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 90",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889819Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "2.987963",
+      "longitude": "-38.735653"
+    }
+  },
+  {
+    "id": "alert-91",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 91",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889824Z",
+    "vehicleId": "vehicle-33",
+    "location": {
+      "latitude": "-13.071012",
+      "longitude": "113.744604"
+    }
+  },
+  {
+    "id": "alert-92",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 92",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889829Z",
+    "vehicleId": "vehicle-20",
+    "location": {
+      "latitude": "55.505886",
+      "longitude": "-116.423052"
+    }
+  },
+  {
+    "id": "alert-93",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 93",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889835Z",
+    "vehicleId": "vehicle-45",
+    "location": {
+      "latitude": "0.787290",
+      "longitude": "3.409143"
+    }
+  },
+  {
+    "id": "alert-94",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 94",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889840Z",
+    "vehicleId": "vehicle-2",
+    "location": {
+      "latitude": "-12.941100",
+      "longitude": "-125.970272"
+    }
+  },
+  {
+    "id": "alert-95",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 95",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889845Z",
+    "vehicleId": "vehicle-76",
+    "location": {
+      "latitude": "-52.852730",
+      "longitude": "-133.178023"
+    }
+  },
+  {
+    "id": "alert-96",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 96",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889850Z",
+    "vehicleId": "vehicle-50",
+    "location": {
+      "latitude": "27.135084",
+      "longitude": "-68.752653"
+    }
+  },
+  {
+    "id": "alert-97",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 97",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889855Z",
+    "vehicleId": "vehicle-66",
+    "location": {
+      "latitude": "-86.002457",
+      "longitude": "63.802101"
+    }
+  },
+  {
+    "id": "alert-98",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 98",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889863Z",
+    "vehicleId": "vehicle-54",
+    "location": {
+      "latitude": "85.301024",
+      "longitude": "129.711978"
+    }
+  },
+  {
+    "id": "alert-99",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 99",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889869Z",
+    "vehicleId": "vehicle-85",
+    "location": {
+      "latitude": "-76.917156",
+      "longitude": "113.193228"
+    }
+  },
+  {
+    "id": "alert-100",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 100",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889874Z",
+    "vehicleId": "vehicle-84",
+    "location": {
+      "latitude": "75.728590",
+      "longitude": "3.582653"
+    }
+  },
+  {
+    "id": "alert-101",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 101",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889882Z",
+    "vehicleId": "vehicle-50",
+    "location": {
+      "latitude": "-6.640690",
+      "longitude": "-84.599436"
+    }
+  },
+  {
+    "id": "alert-102",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 102",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889888Z",
+    "vehicleId": "vehicle-66",
+    "location": {
+      "latitude": "18.457176",
+      "longitude": "9.327282"
+    }
+  },
+  {
+    "id": "alert-103",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 103",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889895Z",
+    "vehicleId": "vehicle-78",
+    "location": {
+      "latitude": "-61.693173",
+      "longitude": "158.953546"
+    }
+  },
+  {
+    "id": "alert-104",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 104",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889901Z",
+    "vehicleId": "vehicle-32",
+    "location": {
+      "latitude": "11.822246",
+      "longitude": "-81.778197"
+    }
+  },
+  {
+    "id": "alert-105",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 105",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889907Z",
+    "vehicleId": "vehicle-49",
+    "location": {
+      "latitude": "58.876237",
+      "longitude": "34.366424"
+    }
+  },
+  {
+    "id": "alert-106",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 106",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889915Z",
+    "vehicleId": "vehicle-56",
+    "location": {
+      "latitude": "-49.201970",
+      "longitude": "67.083870"
+    }
+  },
+  {
+    "id": "alert-107",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 107",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889923Z",
+    "vehicleId": "vehicle-26",
+    "location": {
+      "latitude": "-44.838599",
+      "longitude": "-89.938242"
+    }
+  },
+  {
+    "id": "alert-108",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 108",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889930Z",
+    "vehicleId": "vehicle-23",
+    "location": {
+      "latitude": "16.075236",
+      "longitude": "155.476362"
+    }
+  },
+  {
+    "id": "alert-109",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 109",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889936Z",
+    "vehicleId": "vehicle-50",
+    "location": {
+      "latitude": "34.489779",
+      "longitude": "-108.143145"
+    }
+  },
+  {
+    "id": "alert-110",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 110",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889941Z",
+    "vehicleId": "vehicle-38",
+    "location": {
+      "latitude": "52.853552",
+      "longitude": "127.066896"
+    }
+  },
+  {
+    "id": "alert-111",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 111",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889945Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "28.147657",
+      "longitude": "-179.441505"
+    }
+  },
+  {
+    "id": "alert-112",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 112",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889950Z",
+    "vehicleId": "vehicle-92",
+    "location": {
+      "latitude": "-86.276286",
+      "longitude": "40.273962"
+    }
+  },
+  {
+    "id": "alert-113",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 113",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889955Z",
+    "vehicleId": "vehicle-78",
+    "location": {
+      "latitude": "-85.261923",
+      "longitude": "-22.253638"
+    }
+  },
+  {
+    "id": "alert-114",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 114",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889961Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "-34.221173",
+      "longitude": "52.488443"
+    }
+  },
+  {
+    "id": "alert-115",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 115",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889966Z",
+    "vehicleId": "vehicle-10",
+    "location": {
+      "latitude": "8.865803",
+      "longitude": "53.751700"
+    }
+  },
+  {
+    "id": "alert-116",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 116",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889970Z",
+    "vehicleId": "vehicle-52",
+    "location": {
+      "latitude": "-34.344708",
+      "longitude": "-129.431101"
+    }
+  },
+  {
+    "id": "alert-117",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 117",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889976Z",
+    "vehicleId": "vehicle-2",
+    "location": {
+      "latitude": "-80.709107",
+      "longitude": "-126.587272"
+    }
+  },
+  {
+    "id": "alert-118",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 118",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.889982Z",
+    "vehicleId": "vehicle-17",
+    "location": {
+      "latitude": "14.637049",
+      "longitude": "105.547047"
+    }
+  },
+  {
+    "id": "alert-119",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 119",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.889995Z",
+    "vehicleId": "vehicle-33",
+    "location": {
+      "latitude": "34.249399",
+      "longitude": "-142.902555"
+    }
+  },
+  {
+    "id": "alert-120",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 120",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890002Z",
+    "vehicleId": "vehicle-50",
+    "location": {
+      "latitude": "-88.037401",
+      "longitude": "-39.373102"
+    }
+  },
+  {
+    "id": "alert-121",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 121",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890007Z",
+    "vehicleId": "vehicle-74",
+    "location": {
+      "latitude": "63.413380",
+      "longitude": "-149.982466"
+    }
+  },
+  {
+    "id": "alert-122",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 122",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890012Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "-31.439395",
+      "longitude": "93.685159"
+    }
+  },
+  {
+    "id": "alert-123",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 123",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890016Z",
+    "vehicleId": "vehicle-56",
+    "location": {
+      "latitude": "46.207678",
+      "longitude": "-13.854048"
+    }
+  },
+  {
+    "id": "alert-124",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 124",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890021Z",
+    "vehicleId": "vehicle-65",
+    "location": {
+      "latitude": "-77.913647",
+      "longitude": "163.165206"
+    }
+  },
+  {
+    "id": "alert-125",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 125",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890026Z",
+    "vehicleId": "vehicle-26",
+    "location": {
+      "latitude": "-27.457142",
+      "longitude": "4.893104"
+    }
+  },
+  {
+    "id": "alert-126",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 126",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890034Z",
+    "vehicleId": "vehicle-20",
+    "location": {
+      "latitude": "-62.282855",
+      "longitude": "70.144508"
+    }
+  },
+  {
+    "id": "alert-127",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 127",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890039Z",
+    "vehicleId": "vehicle-53",
+    "location": {
+      "latitude": "66.089431",
+      "longitude": "-126.575072"
+    }
+  },
+  {
+    "id": "alert-128",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 128",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890044Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "40.087464",
+      "longitude": "128.305951"
+    }
+  },
+  {
+    "id": "alert-129",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 129",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890050Z",
+    "vehicleId": "vehicle-68",
+    "location": {
+      "latitude": "82.514026",
+      "longitude": "136.364400"
+    }
+  },
+  {
+    "id": "alert-130",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 130",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890058Z",
+    "vehicleId": "vehicle-79",
+    "location": {
+      "latitude": "36.657127",
+      "longitude": "167.403266"
+    }
+  },
+  {
+    "id": "alert-131",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 131",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890065Z",
+    "vehicleId": "vehicle-67",
+    "location": {
+      "latitude": "-62.107617",
+      "longitude": "-6.658224"
+    }
+  },
+  {
+    "id": "alert-132",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 132",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890074Z",
+    "vehicleId": "vehicle-67",
+    "location": {
+      "latitude": "-55.171831",
+      "longitude": "-63.113788"
+    }
+  },
+  {
+    "id": "alert-133",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 133",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890080Z",
+    "vehicleId": "vehicle-70",
+    "location": {
+      "latitude": "48.336351",
+      "longitude": "153.049124"
+    }
+  },
+  {
+    "id": "alert-134",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 134",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890093Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "58.705956",
+      "longitude": "105.649628"
+    }
+  },
+  {
+    "id": "alert-135",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 135",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890098Z",
+    "vehicleId": "vehicle-21",
+    "location": {
+      "latitude": "17.571490",
+      "longitude": "-96.717960"
+    }
+  },
+  {
+    "id": "alert-136",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 136",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890103Z",
+    "vehicleId": "vehicle-82",
+    "location": {
+      "latitude": "72.369625",
+      "longitude": "-1.497689"
+    }
+  },
+  {
+    "id": "alert-137",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 137",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890108Z",
+    "vehicleId": "vehicle-41",
+    "location": {
+      "latitude": "21.197484",
+      "longitude": "23.332972"
+    }
+  },
+  {
+    "id": "alert-138",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 138",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890113Z",
+    "vehicleId": "vehicle-59",
+    "location": {
+      "latitude": "-63.215053",
+      "longitude": "-111.601028"
+    }
+  },
+  {
+    "id": "alert-139",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 139",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890118Z",
+    "vehicleId": "vehicle-63",
+    "location": {
+      "latitude": "87.879035",
+      "longitude": "-115.112794"
+    }
+  },
+  {
+    "id": "alert-140",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 140",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890126Z",
+    "vehicleId": "vehicle-30",
+    "location": {
+      "latitude": "-73.946349",
+      "longitude": "-68.807852"
+    }
+  },
+  {
+    "id": "alert-141",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 141",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890131Z",
+    "vehicleId": "vehicle-95",
+    "location": {
+      "latitude": "-6.258287",
+      "longitude": "-81.517149"
+    }
+  },
+  {
+    "id": "alert-142",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 142",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890136Z",
+    "vehicleId": "vehicle-22",
+    "location": {
+      "latitude": "13.664052",
+      "longitude": "177.090463"
+    }
+  },
+  {
+    "id": "alert-143",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 143",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890141Z",
+    "vehicleId": "vehicle-4",
+    "location": {
+      "latitude": "77.636529",
+      "longitude": "8.841113"
+    }
+  },
+  {
+    "id": "alert-144",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 144",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890146Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "-69.631555",
+      "longitude": "118.591896"
+    }
+  },
+  {
+    "id": "alert-145",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 145",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890151Z",
+    "vehicleId": "vehicle-32",
+    "location": {
+      "latitude": "26.397903",
+      "longitude": "-96.120045"
+    }
+  },
+  {
+    "id": "alert-146",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 146",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890159Z",
+    "vehicleId": "vehicle-51",
+    "location": {
+      "latitude": "-46.955809",
+      "longitude": "154.772365"
+    }
+  },
+  {
+    "id": "alert-147",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 147",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890164Z",
+    "vehicleId": "vehicle-38",
+    "location": {
+      "latitude": "65.154573",
+      "longitude": "-63.732168"
+    }
+  },
+  {
+    "id": "alert-148",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 148",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890170Z",
+    "vehicleId": "vehicle-7",
+    "location": {
+      "latitude": "-1.262710",
+      "longitude": "-160.784949"
+    }
+  },
+  {
+    "id": "alert-149",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 149",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890176Z",
+    "vehicleId": "vehicle-6",
+    "location": {
+      "latitude": "-5.545846",
+      "longitude": "57.206049"
+    }
+  },
+  {
+    "id": "alert-150",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 150",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890182Z",
+    "vehicleId": "vehicle-41",
+    "location": {
+      "latitude": "14.271660",
+      "longitude": "-115.736868"
+    }
+  },
+  {
+    "id": "alert-151",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 151",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890191Z",
+    "vehicleId": "vehicle-15",
+    "location": {
+      "latitude": "71.791732",
+      "longitude": "-118.727640"
+    }
+  },
+  {
+    "id": "alert-152",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 152",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890196Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "25.999432",
+      "longitude": "-113.159117"
+    }
+  },
+  {
+    "id": "alert-153",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 153",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890201Z",
+    "vehicleId": "vehicle-12",
+    "location": {
+      "latitude": "24.613785",
+      "longitude": "-177.395404"
+    }
+  },
+  {
+    "id": "alert-154",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 154",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890205Z",
+    "vehicleId": "vehicle-28",
+    "location": {
+      "latitude": "89.680211",
+      "longitude": "-41.017123"
+    }
+  },
+  {
+    "id": "alert-155",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 155",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890210Z",
+    "vehicleId": "vehicle-60",
+    "location": {
+      "latitude": "-7.802201",
+      "longitude": "-85.239614"
+    }
+  },
+  {
+    "id": "alert-156",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 156",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890228Z",
+    "vehicleId": "vehicle-62",
+    "location": {
+      "latitude": "61.426152",
+      "longitude": "18.522139"
+    }
+  },
+  {
+    "id": "alert-157",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 157",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890238Z",
+    "vehicleId": "vehicle-26",
+    "location": {
+      "latitude": "63.229595",
+      "longitude": "81.222857"
+    }
+  },
+  {
+    "id": "alert-158",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 158",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890244Z",
+    "vehicleId": "vehicle-17",
+    "location": {
+      "latitude": "-49.405005",
+      "longitude": "72.260776"
+    }
+  },
+  {
+    "id": "alert-159",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 159",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890249Z",
+    "vehicleId": "vehicle-98",
+    "location": {
+      "latitude": "30.531674",
+      "longitude": "-73.825619"
+    }
+  },
+  {
+    "id": "alert-160",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 160",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890254Z",
+    "vehicleId": "vehicle-69",
+    "location": {
+      "latitude": "-58.702945",
+      "longitude": "-118.133970"
+    }
+  },
+  {
+    "id": "alert-161",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 161",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890261Z",
+    "vehicleId": "vehicle-67",
+    "location": {
+      "latitude": "77.320925",
+      "longitude": "158.370113"
+    }
+  },
+  {
+    "id": "alert-162",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 162",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890266Z",
+    "vehicleId": "vehicle-56",
+    "location": {
+      "latitude": "76.229604",
+      "longitude": "-33.345615"
+    }
+  },
+  {
+    "id": "alert-163",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 163",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890271Z",
+    "vehicleId": "vehicle-34",
+    "location": {
+      "latitude": "-73.311328",
+      "longitude": "-91.604640"
+    }
+  },
+  {
+    "id": "alert-164",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 164",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890278Z",
+    "vehicleId": "vehicle-44",
+    "location": {
+      "latitude": "-4.702704",
+      "longitude": "-3.946776"
+    }
+  },
+  {
+    "id": "alert-165",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 165",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890286Z",
+    "vehicleId": "vehicle-33",
+    "location": {
+      "latitude": "65.928546",
+      "longitude": "12.389143"
+    }
+  },
+  {
+    "id": "alert-166",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 166",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890291Z",
+    "vehicleId": "vehicle-27",
+    "location": {
+      "latitude": "7.983098",
+      "longitude": "19.949809"
+    }
+  },
+  {
+    "id": "alert-167",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 167",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890297Z",
+    "vehicleId": "vehicle-38",
+    "location": {
+      "latitude": "49.043191",
+      "longitude": "-35.845159"
+    }
+  },
+  {
+    "id": "alert-168",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 168",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890301Z",
+    "vehicleId": "vehicle-95",
+    "location": {
+      "latitude": "-51.034148",
+      "longitude": "-26.707261"
+    }
+  },
+  {
+    "id": "alert-169",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 169",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890307Z",
+    "vehicleId": "vehicle-62",
+    "location": {
+      "latitude": "88.259522",
+      "longitude": "13.578641"
+    }
+  },
+  {
+    "id": "alert-170",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 170",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890313Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "23.640686",
+      "longitude": "78.100886"
+    }
+  },
+  {
+    "id": "alert-171",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 171",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890319Z",
+    "vehicleId": "vehicle-8",
+    "location": {
+      "latitude": "7.885095",
+      "longitude": "26.496633"
+    }
+  },
+  {
+    "id": "alert-172",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 172",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890328Z",
+    "vehicleId": "vehicle-49",
+    "location": {
+      "latitude": "24.484501",
+      "longitude": "3.172365"
+    }
+  },
+  {
+    "id": "alert-173",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 173",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890334Z",
+    "vehicleId": "vehicle-81",
+    "location": {
+      "latitude": "-50.970489",
+      "longitude": "-26.478663"
+    }
+  },
+  {
+    "id": "alert-174",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 174",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890340Z",
+    "vehicleId": "vehicle-51",
+    "location": {
+      "latitude": "9.173850",
+      "longitude": "36.157210"
+    }
+  },
+  {
+    "id": "alert-175",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 175",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890345Z",
+    "vehicleId": "vehicle-13",
+    "location": {
+      "latitude": "14.015487",
+      "longitude": "142.413505"
+    }
+  },
+  {
+    "id": "alert-176",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 176",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890350Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "78.999310",
+      "longitude": "-114.827022"
+    }
+  },
+  {
+    "id": "alert-177",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 177",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890355Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "3.860593",
+      "longitude": "139.944268"
+    }
+  },
+  {
+    "id": "alert-178",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 178",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890360Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "24.804071",
+      "longitude": "160.799986"
+    }
+  },
+  {
+    "id": "alert-179",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 179",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890364Z",
+    "vehicleId": "vehicle-4",
+    "location": {
+      "latitude": "-42.605007",
+      "longitude": "34.888564"
+    }
+  },
+  {
+    "id": "alert-180",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 180",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890369Z",
+    "vehicleId": "vehicle-18",
+    "location": {
+      "latitude": "85.958507",
+      "longitude": "4.271347"
+    }
+  },
+  {
+    "id": "alert-181",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 181",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890374Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "-39.123051",
+      "longitude": "75.860178"
+    }
+  },
+  {
+    "id": "alert-182",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 182",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890382Z",
+    "vehicleId": "vehicle-37",
+    "location": {
+      "latitude": "-67.581951",
+      "longitude": "-99.470930"
+    }
+  },
+  {
+    "id": "alert-183",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 183",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890391Z",
+    "vehicleId": "vehicle-13",
+    "location": {
+      "latitude": "7.619550",
+      "longitude": "175.376038"
+    }
+  },
+  {
+    "id": "alert-184",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 184",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890395Z",
+    "vehicleId": "vehicle-68",
+    "location": {
+      "latitude": "57.251636",
+      "longitude": "-133.164823"
+    }
+  },
+  {
+    "id": "alert-185",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 185",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890408Z",
+    "vehicleId": "vehicle-94",
+    "location": {
+      "latitude": "36.404174",
+      "longitude": "-168.837825"
+    }
+  },
+  {
+    "id": "alert-186",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 186",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890414Z",
+    "vehicleId": "vehicle-54",
+    "location": {
+      "latitude": "46.200011",
+      "longitude": "134.978535"
+    }
+  },
+  {
+    "id": "alert-187",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 187",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890420Z",
+    "vehicleId": "vehicle-95",
+    "location": {
+      "latitude": "-46.634667",
+      "longitude": "-80.225831"
+    }
+  },
+  {
+    "id": "alert-188",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 188",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890426Z",
+    "vehicleId": "vehicle-54",
+    "location": {
+      "latitude": "15.079740",
+      "longitude": "116.433805"
+    }
+  },
+  {
+    "id": "alert-189",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 189",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890431Z",
+    "vehicleId": "vehicle-64",
+    "location": {
+      "latitude": "-68.932307",
+      "longitude": "-47.806324"
+    }
+  },
+  {
+    "id": "alert-190",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 190",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890436Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "20.425512",
+      "longitude": "-113.263540"
+    }
+  },
+  {
+    "id": "alert-191",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 191",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890441Z",
+    "vehicleId": "vehicle-81",
+    "location": {
+      "latitude": "-35.271146",
+      "longitude": "81.493142"
+    }
+  },
+  {
+    "id": "alert-192",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 192",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890446Z",
+    "vehicleId": "vehicle-100",
+    "location": {
+      "latitude": "-9.184147",
+      "longitude": "-166.940980"
+    }
+  },
+  {
+    "id": "alert-193",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 193",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890454Z",
+    "vehicleId": "vehicle-7",
+    "location": {
+      "latitude": "50.434276",
+      "longitude": "21.863634"
+    }
+  },
+  {
+    "id": "alert-194",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 194",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890459Z",
+    "vehicleId": "vehicle-66",
+    "location": {
+      "latitude": "-15.342797",
+      "longitude": "-154.377135"
+    }
+  },
+  {
+    "id": "alert-195",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 195",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890464Z",
+    "vehicleId": "vehicle-97",
+    "location": {
+      "latitude": "34.121110",
+      "longitude": "26.705147"
+    }
+  },
+  {
+    "id": "alert-196",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 196",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890471Z",
+    "vehicleId": "vehicle-91",
+    "location": {
+      "latitude": "-77.661330",
+      "longitude": "-30.958513"
+    }
+  },
+  {
+    "id": "alert-197",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 197",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890477Z",
+    "vehicleId": "vehicle-94",
+    "location": {
+      "latitude": "48.385733",
+      "longitude": "113.478142"
+    }
+  },
+  {
+    "id": "alert-198",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 198",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890482Z",
+    "vehicleId": "vehicle-76",
+    "location": {
+      "latitude": "-58.883993",
+      "longitude": "15.579058"
+    }
+  },
+  {
+    "id": "alert-199",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 199",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890486Z",
+    "vehicleId": "vehicle-63",
+    "location": {
+      "latitude": "22.586785",
+      "longitude": "12.317781"
+    }
+  },
+  {
+    "id": "alert-200",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 200",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890492Z",
+    "vehicleId": "vehicle-6",
+    "location": {
+      "latitude": "-45.301523",
+      "longitude": "11.264941"
+    }
+  },
+  {
+    "id": "alert-201",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 201",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890498Z",
+    "vehicleId": "vehicle-92",
+    "location": {
+      "latitude": "44.519545",
+      "longitude": "-66.287554"
+    }
+  },
+  {
+    "id": "alert-202",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 202",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890504Z",
+    "vehicleId": "vehicle-73",
+    "location": {
+      "latitude": "7.735256",
+      "longitude": "143.089197"
+    }
+  },
+  {
+    "id": "alert-203",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 203",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890510Z",
+    "vehicleId": "vehicle-52",
+    "location": {
+      "latitude": "-6.417001",
+      "longitude": "167.806917"
+    }
+  },
+  {
+    "id": "alert-204",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 204",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890521Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "-82.886276",
+      "longitude": "-169.439773"
+    }
+  },
+  {
+    "id": "alert-205",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 205",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890526Z",
+    "vehicleId": "vehicle-74",
+    "location": {
+      "latitude": "31.253096",
+      "longitude": "64.952530"
+    }
+  },
+  {
+    "id": "alert-206",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 206",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890531Z",
+    "vehicleId": "vehicle-23",
+    "location": {
+      "latitude": "43.401656",
+      "longitude": "143.199986"
+    }
+  },
+  {
+    "id": "alert-207",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 207",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890536Z",
+    "vehicleId": "vehicle-84",
+    "location": {
+      "latitude": "64.239599",
+      "longitude": "176.585194"
+    }
+  },
+  {
+    "id": "alert-208",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 208",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890544Z",
+    "vehicleId": "vehicle-56",
+    "location": {
+      "latitude": "6.938187",
+      "longitude": "-33.289083"
+    }
+  },
+  {
+    "id": "alert-209",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 209",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890548Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "-88.325137",
+      "longitude": "-165.395929"
+    }
+  },
+  {
+    "id": "alert-210",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 210",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890553Z",
+    "vehicleId": "vehicle-22",
+    "location": {
+      "latitude": "-25.471756",
+      "longitude": "-125.343106"
+    }
+  },
+  {
+    "id": "alert-211",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 211",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890558Z",
+    "vehicleId": "vehicle-18",
+    "location": {
+      "latitude": "79.267812",
+      "longitude": "12.568856"
+    }
+  },
+  {
+    "id": "alert-212",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 212",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890563Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "-88.813348",
+      "longitude": "49.906191"
+    }
+  },
+  {
+    "id": "alert-213",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 213",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890568Z",
+    "vehicleId": "vehicle-98",
+    "location": {
+      "latitude": "17.363771",
+      "longitude": "81.175349"
+    }
+  },
+  {
+    "id": "alert-214",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 214",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890573Z",
+    "vehicleId": "vehicle-23",
+    "location": {
+      "latitude": "-53.342733",
+      "longitude": "49.835623"
+    }
+  },
+  {
+    "id": "alert-215",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 215",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890580Z",
+    "vehicleId": "vehicle-64",
+    "location": {
+      "latitude": "25.061492",
+      "longitude": "1.455109"
+    }
+  },
+  {
+    "id": "alert-216",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 216",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890586Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "-9.710747",
+      "longitude": "-114.794878"
+    }
+  },
+  {
+    "id": "alert-217",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 217",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890592Z",
+    "vehicleId": "vehicle-20",
+    "location": {
+      "latitude": "-42.188040",
+      "longitude": "-70.234627"
+    }
+  },
+  {
+    "id": "alert-218",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 218",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890597Z",
+    "vehicleId": "vehicle-86",
+    "location": {
+      "latitude": "-7.026202",
+      "longitude": "-38.605808"
+    }
+  },
+  {
+    "id": "alert-219",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 219",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890603Z",
+    "vehicleId": "vehicle-53",
+    "location": {
+      "latitude": "-77.242028",
+      "longitude": "-34.816321"
+    }
+  },
+  {
+    "id": "alert-220",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 220",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890609Z",
+    "vehicleId": "vehicle-2",
+    "location": {
+      "latitude": "-75.899910",
+      "longitude": "-109.643561"
+    }
+  },
+  {
+    "id": "alert-221",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 221",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890615Z",
+    "vehicleId": "vehicle-26",
+    "location": {
+      "latitude": "70.366128",
+      "longitude": "-10.937823"
+    }
+  },
+  {
+    "id": "alert-222",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 222",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890620Z",
+    "vehicleId": "vehicle-52",
+    "location": {
+      "latitude": "4.295750",
+      "longitude": "74.313731"
+    }
+  },
+  {
+    "id": "alert-223",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 223",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890624Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "-74.317434",
+      "longitude": "170.414061"
+    }
+  },
+  {
+    "id": "alert-224",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 224",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890633Z",
+    "vehicleId": "vehicle-66",
+    "location": {
+      "latitude": "-3.467763",
+      "longitude": "147.568107"
+    }
+  },
+  {
+    "id": "alert-225",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 225",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890640Z",
+    "vehicleId": "vehicle-41",
+    "location": {
+      "latitude": "-0.400876",
+      "longitude": "24.982839"
+    }
+  },
+  {
+    "id": "alert-226",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 226",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890646Z",
+    "vehicleId": "vehicle-45",
+    "location": {
+      "latitude": "61.785322",
+      "longitude": "-147.415029"
+    }
+  },
+  {
+    "id": "alert-227",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 227",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890650Z",
+    "vehicleId": "vehicle-9",
+    "location": {
+      "latitude": "44.917356",
+      "longitude": "162.673581"
+    }
+  },
+  {
+    "id": "alert-228",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 228",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890658Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "-31.618666",
+      "longitude": "-139.752931"
+    }
+  },
+  {
+    "id": "alert-229",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 229",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890663Z",
+    "vehicleId": "vehicle-49",
+    "location": {
+      "latitude": "-6.566930",
+      "longitude": "161.805848"
+    }
+  },
+  {
+    "id": "alert-230",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 230",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890668Z",
+    "vehicleId": "vehicle-65",
+    "location": {
+      "latitude": "38.945546",
+      "longitude": "-82.162642"
+    }
+  },
+  {
+    "id": "alert-231",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 231",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890673Z",
+    "vehicleId": "vehicle-63",
+    "location": {
+      "latitude": "-27.207193",
+      "longitude": "12.962819"
+    }
+  },
+  {
+    "id": "alert-232",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 232",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890678Z",
+    "vehicleId": "vehicle-29",
+    "location": {
+      "latitude": "-62.540698",
+      "longitude": "-136.565671"
+    }
+  },
+  {
+    "id": "alert-233",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 233",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890687Z",
+    "vehicleId": "vehicle-12",
+    "location": {
+      "latitude": "22.407130",
+      "longitude": "-167.175927"
+    }
+  },
+  {
+    "id": "alert-234",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 234",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890693Z",
+    "vehicleId": "vehicle-14",
+    "location": {
+      "latitude": "-87.205179",
+      "longitude": "162.270973"
+    }
+  },
+  {
+    "id": "alert-235",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 235",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890699Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "-55.703166",
+      "longitude": "6.491558"
+    }
+  },
+  {
+    "id": "alert-236",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 236",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890707Z",
+    "vehicleId": "vehicle-98",
+    "location": {
+      "latitude": "-10.826062",
+      "longitude": "-151.709786"
+    }
+  },
+  {
+    "id": "alert-237",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 237",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890713Z",
+    "vehicleId": "vehicle-24",
+    "location": {
+      "latitude": "0.795947",
+      "longitude": "149.185958"
+    }
+  },
+  {
+    "id": "alert-238",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 238",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890718Z",
+    "vehicleId": "vehicle-96",
+    "location": {
+      "latitude": "-3.186282",
+      "longitude": "-136.761870"
+    }
+  },
+  {
+    "id": "alert-239",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 239",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890723Z",
+    "vehicleId": "vehicle-24",
+    "location": {
+      "latitude": "30.927734",
+      "longitude": "34.667499"
+    }
+  },
+  {
+    "id": "alert-240",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 240",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890728Z",
+    "vehicleId": "vehicle-31",
+    "location": {
+      "latitude": "19.357968",
+      "longitude": "162.394385"
+    }
+  },
+  {
+    "id": "alert-241",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 241",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890732Z",
+    "vehicleId": "vehicle-65",
+    "location": {
+      "latitude": "50.487461",
+      "longitude": "10.501836"
+    }
+  },
+  {
+    "id": "alert-242",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 242",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890737Z",
+    "vehicleId": "vehicle-71",
+    "location": {
+      "latitude": "72.213726",
+      "longitude": "-124.467723"
+    }
+  },
+  {
+    "id": "alert-243",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 243",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890745Z",
+    "vehicleId": "vehicle-49",
+    "location": {
+      "latitude": "-9.541708",
+      "longitude": "-78.343888"
+    }
+  },
+  {
+    "id": "alert-244",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 244",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890750Z",
+    "vehicleId": "vehicle-26",
+    "location": {
+      "latitude": "17.782631",
+      "longitude": "95.848547"
+    }
+  },
+  {
+    "id": "alert-245",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 245",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890755Z",
+    "vehicleId": "vehicle-64",
+    "location": {
+      "latitude": "38.104480",
+      "longitude": "127.793753"
+    }
+  },
+  {
+    "id": "alert-246",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 246",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890763Z",
+    "vehicleId": "vehicle-61",
+    "location": {
+      "latitude": "-12.679613",
+      "longitude": "109.315630"
+    }
+  },
+  {
+    "id": "alert-247",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 247",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890768Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "-17.950281",
+      "longitude": "154.632575"
+    }
+  },
+  {
+    "id": "alert-248",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 248",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890773Z",
+    "vehicleId": "vehicle-26",
+    "location": {
+      "latitude": "-50.538410",
+      "longitude": "2.685207"
+    }
+  },
+  {
+    "id": "alert-249",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 249",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890779Z",
+    "vehicleId": "vehicle-20",
+    "location": {
+      "latitude": "-44.757227",
+      "longitude": "104.572940"
+    }
+  },
+  {
+    "id": "alert-250",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 250",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890785Z",
+    "vehicleId": "vehicle-71",
+    "location": {
+      "latitude": "-77.009435",
+      "longitude": "-137.767288"
+    }
+  },
+  {
+    "id": "alert-251",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 251",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890791Z",
+    "vehicleId": "vehicle-35",
+    "location": {
+      "latitude": "14.368808",
+      "longitude": "-58.209116"
+    }
+  },
+  {
+    "id": "alert-252",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 252",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890796Z",
+    "vehicleId": "vehicle-25",
+    "location": {
+      "latitude": "20.587040",
+      "longitude": "177.861954"
+    }
+  },
+  {
+    "id": "alert-253",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 253",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890802Z",
+    "vehicleId": "vehicle-40",
+    "location": {
+      "latitude": "-70.000102",
+      "longitude": "151.797298"
+    }
+  },
+  {
+    "id": "alert-254",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 254",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890807Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "-84.688144",
+      "longitude": "-113.776342"
+    }
+  },
+  {
+    "id": "alert-255",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 255",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890812Z",
+    "vehicleId": "vehicle-76",
+    "location": {
+      "latitude": "-43.389014",
+      "longitude": "63.636616"
+    }
+  },
+  {
+    "id": "alert-256",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 256",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890817Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "19.535140",
+      "longitude": "-150.767400"
+    }
+  },
+  {
+    "id": "alert-257",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 257",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890825Z",
+    "vehicleId": "vehicle-8",
+    "location": {
+      "latitude": "47.456493",
+      "longitude": "85.768164"
+    }
+  },
+  {
+    "id": "alert-258",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 258",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890830Z",
+    "vehicleId": "vehicle-76",
+    "location": {
+      "latitude": "12.156796",
+      "longitude": "-147.922422"
+    }
+  },
+  {
+    "id": "alert-259",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 259",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890845Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "-17.927730",
+      "longitude": "-117.960336"
+    }
+  },
+  {
+    "id": "alert-260",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 260",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890852Z",
+    "vehicleId": "vehicle-7",
+    "location": {
+      "latitude": "-74.894881",
+      "longitude": "-150.831471"
+    }
+  },
+  {
+    "id": "alert-261",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 261",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890858Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "-24.054949",
+      "longitude": "-25.900738"
+    }
+  },
+  {
+    "id": "alert-262",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 262",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890862Z",
+    "vehicleId": "vehicle-87",
+    "location": {
+      "latitude": "57.204792",
+      "longitude": "-106.344011"
+    }
+  },
+  {
+    "id": "alert-263",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 263",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890872Z",
+    "vehicleId": "vehicle-15",
+    "location": {
+      "latitude": "-10.119818",
+      "longitude": "-160.505875"
+    }
+  },
+  {
+    "id": "alert-264",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 264",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890878Z",
+    "vehicleId": "vehicle-75",
+    "location": {
+      "latitude": "81.635116",
+      "longitude": "-21.806799"
+    }
+  },
+  {
+    "id": "alert-265",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 265",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890884Z",
+    "vehicleId": "vehicle-86",
+    "location": {
+      "latitude": "-72.953918",
+      "longitude": "144.145830"
+    }
+  },
+  {
+    "id": "alert-266",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 266",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890889Z",
+    "vehicleId": "vehicle-72",
+    "location": {
+      "latitude": "60.858926",
+      "longitude": "119.866103"
+    }
+  },
+  {
+    "id": "alert-267",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 267",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890895Z",
+    "vehicleId": "vehicle-75",
+    "location": {
+      "latitude": "-38.421462",
+      "longitude": "-113.451064"
+    }
+  },
+  {
+    "id": "alert-268",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 268",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890904Z",
+    "vehicleId": "vehicle-87",
+    "location": {
+      "latitude": "34.812138",
+      "longitude": "112.414431"
+    }
+  },
+  {
+    "id": "alert-269",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 269",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890909Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "-25.355405",
+      "longitude": "61.533090"
+    }
+  },
+  {
+    "id": "alert-270",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 270",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890914Z",
+    "vehicleId": "vehicle-28",
+    "location": {
+      "latitude": "21.534301",
+      "longitude": "25.690498"
+    }
+  },
+  {
+    "id": "alert-271",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 271",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890919Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "27.294101",
+      "longitude": "-101.470248"
+    }
+  },
+  {
+    "id": "alert-272",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 272",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890924Z",
+    "vehicleId": "vehicle-97",
+    "location": {
+      "latitude": "-26.802379",
+      "longitude": "25.903985"
+    }
+  },
+  {
+    "id": "alert-273",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 273",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890929Z",
+    "vehicleId": "vehicle-92",
+    "location": {
+      "latitude": "35.939356",
+      "longitude": "-91.049410"
+    }
+  },
+  {
+    "id": "alert-274",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 274",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890934Z",
+    "vehicleId": "vehicle-91",
+    "location": {
+      "latitude": "42.352034",
+      "longitude": "176.550444"
+    }
+  },
+  {
+    "id": "alert-275",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 275",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890939Z",
+    "vehicleId": "vehicle-30",
+    "location": {
+      "latitude": "-68.301613",
+      "longitude": "22.968258"
+    }
+  },
+  {
+    "id": "alert-276",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 276",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890944Z",
+    "vehicleId": "vehicle-84",
+    "location": {
+      "latitude": "12.194900",
+      "longitude": "21.271210"
+    }
+  },
+  {
+    "id": "alert-277",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 277",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890949Z",
+    "vehicleId": "vehicle-48",
+    "location": {
+      "latitude": "-88.367004",
+      "longitude": "-80.611618"
+    }
+  },
+  {
+    "id": "alert-278",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 278",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.890967Z",
+    "vehicleId": "vehicle-48",
+    "location": {
+      "latitude": "-17.287992",
+      "longitude": "-135.356933"
+    }
+  },
+  {
+    "id": "alert-279",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 279",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890974Z",
+    "vehicleId": "vehicle-47",
+    "location": {
+      "latitude": "-1.997047",
+      "longitude": "-136.904710"
+    }
+  },
+  {
+    "id": "alert-280",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 280",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890980Z",
+    "vehicleId": "vehicle-2",
+    "location": {
+      "latitude": "-84.332759",
+      "longitude": "-131.677410"
+    }
+  },
+  {
+    "id": "alert-281",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 281",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890986Z",
+    "vehicleId": "vehicle-82",
+    "location": {
+      "latitude": "-84.214461",
+      "longitude": "-85.226202"
+    }
+  },
+  {
+    "id": "alert-282",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 282",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890994Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "-68.406102",
+      "longitude": "59.849519"
+    }
+  },
+  {
+    "id": "alert-283",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 283",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.890999Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "42.778131",
+      "longitude": "-90.277392"
+    }
+  },
+  {
+    "id": "alert-284",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 284",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891007Z",
+    "vehicleId": "vehicle-21",
+    "location": {
+      "latitude": "-67.599397",
+      "longitude": "137.850249"
+    }
+  },
+  {
+    "id": "alert-285",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 285",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891012Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "37.629227",
+      "longitude": "171.924780"
+    }
+  },
+  {
+    "id": "alert-286",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 286",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891017Z",
+    "vehicleId": "vehicle-53",
+    "location": {
+      "latitude": "-16.617076",
+      "longitude": "-78.530792"
+    }
+  },
+  {
+    "id": "alert-287",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 287",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891022Z",
+    "vehicleId": "vehicle-69",
+    "location": {
+      "latitude": "-36.752466",
+      "longitude": "171.245439"
+    }
+  },
+  {
+    "id": "alert-288",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 288",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891027Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "-39.450243",
+      "longitude": "134.284685"
+    }
+  },
+  {
+    "id": "alert-289",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 289",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891034Z",
+    "vehicleId": "vehicle-34",
+    "location": {
+      "latitude": "83.468425",
+      "longitude": "75.779485"
+    }
+  },
+  {
+    "id": "alert-290",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 290",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891039Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "1.681700",
+      "longitude": "-152.324231"
+    }
+  },
+  {
+    "id": "alert-291",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 291",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891047Z",
+    "vehicleId": "vehicle-33",
+    "location": {
+      "latitude": "-72.711337",
+      "longitude": "-159.775523"
+    }
+  },
+  {
+    "id": "alert-292",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 292",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891053Z",
+    "vehicleId": "vehicle-28",
+    "location": {
+      "latitude": "-21.739355",
+      "longitude": "-75.225510"
+    }
+  },
+  {
+    "id": "alert-293",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 293",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891058Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "16.982588",
+      "longitude": "26.109793"
+    }
+  },
+  {
+    "id": "alert-294",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 294",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891064Z",
+    "vehicleId": "vehicle-36",
+    "location": {
+      "latitude": "58.352375",
+      "longitude": "-175.519026"
+    }
+  },
+  {
+    "id": "alert-295",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 295",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891070Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "-84.672942",
+      "longitude": "13.522049"
+    }
+  },
+  {
+    "id": "alert-296",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 296",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891076Z",
+    "vehicleId": "vehicle-81",
+    "location": {
+      "latitude": "-47.388357",
+      "longitude": "170.137194"
+    }
+  },
+  {
+    "id": "alert-297",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 297",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891081Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "78.137715",
+      "longitude": "-95.727928"
+    }
+  },
+  {
+    "id": "alert-298",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 298",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891092Z",
+    "vehicleId": "vehicle-41",
+    "location": {
+      "latitude": "-13.033713",
+      "longitude": "153.149849"
+    }
+  },
+  {
+    "id": "alert-299",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 299",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891097Z",
+    "vehicleId": "vehicle-73",
+    "location": {
+      "latitude": "87.412119",
+      "longitude": "-53.022385"
+    }
+  },
+  {
+    "id": "alert-300",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 300",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891105Z",
+    "vehicleId": "vehicle-25",
+    "location": {
+      "latitude": "-74.108648",
+      "longitude": "-169.104984"
+    }
+  },
+  {
+    "id": "alert-301",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 301",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891110Z",
+    "vehicleId": "vehicle-55",
+    "location": {
+      "latitude": "-38.402058",
+      "longitude": "132.832232"
+    }
+  },
+  {
+    "id": "alert-302",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 302",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891117Z",
+    "vehicleId": "vehicle-19",
+    "location": {
+      "latitude": "86.164696",
+      "longitude": "19.910350"
+    }
+  },
+  {
+    "id": "alert-303",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 303",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891122Z",
+    "vehicleId": "vehicle-40",
+    "location": {
+      "latitude": "18.928366",
+      "longitude": "-70.703114"
+    }
+  },
+  {
+    "id": "alert-304",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 304",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891127Z",
+    "vehicleId": "vehicle-37",
+    "location": {
+      "latitude": "-1.800718",
+      "longitude": "-119.147707"
+    }
+  },
+  {
+    "id": "alert-305",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 305",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891132Z",
+    "vehicleId": "vehicle-70",
+    "location": {
+      "latitude": "-58.828953",
+      "longitude": "9.695235"
+    }
+  },
+  {
+    "id": "alert-306",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 306",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891137Z",
+    "vehicleId": "vehicle-75",
+    "location": {
+      "latitude": "-19.569319",
+      "longitude": "-145.143142"
+    }
+  },
+  {
+    "id": "alert-307",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 307",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891142Z",
+    "vehicleId": "vehicle-22",
+    "location": {
+      "latitude": "-78.315151",
+      "longitude": "-96.625102"
+    }
+  },
+  {
+    "id": "alert-308",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 308",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891147Z",
+    "vehicleId": "vehicle-68",
+    "location": {
+      "latitude": "82.877670",
+      "longitude": "-94.293604"
+    }
+  },
+  {
+    "id": "alert-309",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 309",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891154Z",
+    "vehicleId": "vehicle-18",
+    "location": {
+      "latitude": "38.030421",
+      "longitude": "-178.411156"
+    }
+  },
+  {
+    "id": "alert-310",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 310",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891166Z",
+    "vehicleId": "vehicle-2",
+    "location": {
+      "latitude": "-64.701453",
+      "longitude": "15.883509"
+    }
+  },
+  {
+    "id": "alert-311",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 311",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891172Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "-39.564537",
+      "longitude": "93.883286"
+    }
+  },
+  {
+    "id": "alert-312",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 312",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891177Z",
+    "vehicleId": "vehicle-51",
+    "location": {
+      "latitude": "49.747065",
+      "longitude": "154.675229"
+    }
+  },
+  {
+    "id": "alert-313",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 313",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891182Z",
+    "vehicleId": "vehicle-94",
+    "location": {
+      "latitude": "-52.964451",
+      "longitude": "156.812054"
+    }
+  },
+  {
+    "id": "alert-314",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 314",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891187Z",
+    "vehicleId": "vehicle-5",
+    "location": {
+      "latitude": "60.431160",
+      "longitude": "-109.518436"
+    }
+  },
+  {
+    "id": "alert-315",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 315",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891192Z",
+    "vehicleId": "vehicle-26",
+    "location": {
+      "latitude": "34.127899",
+      "longitude": "155.011160"
+    }
+  },
+  {
+    "id": "alert-316",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 316",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891197Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "21.728622",
+      "longitude": "46.268392"
+    }
+  },
+  {
+    "id": "alert-317",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 317",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891202Z",
+    "vehicleId": "vehicle-28",
+    "location": {
+      "latitude": "67.289101",
+      "longitude": "-27.591734"
+    }
+  },
+  {
+    "id": "alert-318",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 318",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891248Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "77.139477",
+      "longitude": "-54.648728"
+    }
+  },
+  {
+    "id": "alert-319",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 319",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891257Z",
+    "vehicleId": "vehicle-97",
+    "location": {
+      "latitude": "79.710810",
+      "longitude": "-17.481064"
+    }
+  },
+  {
+    "id": "alert-320",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 320",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891262Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "35.107115",
+      "longitude": "-62.963822"
+    }
+  },
+  {
+    "id": "alert-321",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 321",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891273Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "69.701574",
+      "longitude": "-37.958612"
+    }
+  },
+  {
+    "id": "alert-322",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 322",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891278Z",
+    "vehicleId": "vehicle-85",
+    "location": {
+      "latitude": "55.102272",
+      "longitude": "-51.072086"
+    }
+  },
+  {
+    "id": "alert-323",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 323",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891290Z",
+    "vehicleId": "vehicle-28",
+    "location": {
+      "latitude": "-63.110377",
+      "longitude": "-104.719478"
+    }
+  },
+  {
+    "id": "alert-324",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 324",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891295Z",
+    "vehicleId": "vehicle-41",
+    "location": {
+      "latitude": "-9.080367",
+      "longitude": "144.731995"
+    }
+  },
+  {
+    "id": "alert-325",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 325",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891301Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "-22.841863",
+      "longitude": "-146.038125"
+    }
+  },
+  {
+    "id": "alert-326",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 326",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891306Z",
+    "vehicleId": "vehicle-94",
+    "location": {
+      "latitude": "19.449498",
+      "longitude": "-94.215685"
+    }
+  },
+  {
+    "id": "alert-327",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 327",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891311Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "-63.470783",
+      "longitude": "77.971976"
+    }
+  },
+  {
+    "id": "alert-328",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 328",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891317Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "15.549405",
+      "longitude": "-10.312198"
+    }
+  },
+  {
+    "id": "alert-329",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 329",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891323Z",
+    "vehicleId": "vehicle-6",
+    "location": {
+      "latitude": "-30.280542",
+      "longitude": "-27.735673"
+    }
+  },
+  {
+    "id": "alert-330",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 330",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891328Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "-0.427201",
+      "longitude": "-110.206993"
+    }
+  },
+  {
+    "id": "alert-331",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 331",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891337Z",
+    "vehicleId": "vehicle-12",
+    "location": {
+      "latitude": "-30.751554",
+      "longitude": "98.023732"
+    }
+  },
+  {
+    "id": "alert-332",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 332",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891343Z",
+    "vehicleId": "vehicle-25",
+    "location": {
+      "latitude": "25.154881",
+      "longitude": "62.788932"
+    }
+  },
+  {
+    "id": "alert-333",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 333",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891348Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "-52.230410",
+      "longitude": "8.356956"
+    }
+  },
+  {
+    "id": "alert-334",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 334",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891352Z",
+    "vehicleId": "vehicle-45",
+    "location": {
+      "latitude": "-89.977533",
+      "longitude": "-170.422339"
+    }
+  },
+  {
+    "id": "alert-335",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 335",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891360Z",
+    "vehicleId": "vehicle-93",
+    "location": {
+      "latitude": "6.499628",
+      "longitude": "86.543447"
+    }
+  },
+  {
+    "id": "alert-336",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 336",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891365Z",
+    "vehicleId": "vehicle-59",
+    "location": {
+      "latitude": "68.684107",
+      "longitude": "-7.298484"
+    }
+  },
+  {
+    "id": "alert-337",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 337",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891370Z",
+    "vehicleId": "vehicle-6",
+    "location": {
+      "latitude": "71.462563",
+      "longitude": "74.186226"
+    }
+  },
+  {
+    "id": "alert-338",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 338",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891375Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "63.164058",
+      "longitude": "112.234678"
+    }
+  },
+  {
+    "id": "alert-339",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 339",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891380Z",
+    "vehicleId": "vehicle-87",
+    "location": {
+      "latitude": "-31.987544",
+      "longitude": "6.413004"
+    }
+  },
+  {
+    "id": "alert-340",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 340",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891385Z",
+    "vehicleId": "vehicle-69",
+    "location": {
+      "latitude": "-71.119280",
+      "longitude": "-171.535232"
+    }
+  },
+  {
+    "id": "alert-341",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 341",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891393Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "-87.029573",
+      "longitude": "-141.605434"
+    }
+  },
+  {
+    "id": "alert-342",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 342",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891402Z",
+    "vehicleId": "vehicle-75",
+    "location": {
+      "latitude": "60.133877",
+      "longitude": "-79.537232"
+    }
+  },
+  {
+    "id": "alert-343",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 343",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891407Z",
+    "vehicleId": "vehicle-7",
+    "location": {
+      "latitude": "-22.188752",
+      "longitude": "6.039471"
+    }
+  },
+  {
+    "id": "alert-344",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 344",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891413Z",
+    "vehicleId": "vehicle-34",
+    "location": {
+      "latitude": "19.420589",
+      "longitude": "131.528339"
+    }
+  },
+  {
+    "id": "alert-345",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 345",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891419Z",
+    "vehicleId": "vehicle-5",
+    "location": {
+      "latitude": "-23.364945",
+      "longitude": "114.492374"
+    }
+  },
+  {
+    "id": "alert-346",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 346",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891426Z",
+    "vehicleId": "vehicle-68",
+    "location": {
+      "latitude": "74.322909",
+      "longitude": "-155.304967"
+    }
+  },
+  {
+    "id": "alert-347",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 347",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891432Z",
+    "vehicleId": "vehicle-36",
+    "location": {
+      "latitude": "29.899986",
+      "longitude": "-127.095241"
+    }
+  },
+  {
+    "id": "alert-348",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 348",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891437Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "10.021055",
+      "longitude": "61.348077"
+    }
+  },
+  {
+    "id": "alert-349",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 349",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891442Z",
+    "vehicleId": "vehicle-33",
+    "location": {
+      "latitude": "-33.335367",
+      "longitude": "-128.508627"
+    }
+  },
+  {
+    "id": "alert-350",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 350",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891446Z",
+    "vehicleId": "vehicle-27",
+    "location": {
+      "latitude": "16.798153",
+      "longitude": "61.850698"
+    }
+  },
+  {
+    "id": "alert-351",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 351",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891451Z",
+    "vehicleId": "vehicle-94",
+    "location": {
+      "latitude": "89.087894",
+      "longitude": "112.787050"
+    }
+  },
+  {
+    "id": "alert-352",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 352",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891456Z",
+    "vehicleId": "vehicle-86",
+    "location": {
+      "latitude": "-10.709934",
+      "longitude": "-39.636390"
+    }
+  },
+  {
+    "id": "alert-353",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 353",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891465Z",
+    "vehicleId": "vehicle-96",
+    "location": {
+      "latitude": "-38.729336",
+      "longitude": "-9.687053"
+    }
+  },
+  {
+    "id": "alert-354",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 354",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891470Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "47.110272",
+      "longitude": "-59.855542"
+    }
+  },
+  {
+    "id": "alert-355",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 355",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891478Z",
+    "vehicleId": "vehicle-94",
+    "location": {
+      "latitude": "-22.607468",
+      "longitude": "130.591436"
+    }
+  },
+  {
+    "id": "alert-356",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 356",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891483Z",
+    "vehicleId": "vehicle-60",
+    "location": {
+      "latitude": "85.130626",
+      "longitude": "66.645151"
+    }
+  },
+  {
+    "id": "alert-357",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 357",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891488Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "85.286950",
+      "longitude": "-167.537796"
+    }
+  },
+  {
+    "id": "alert-358",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 358",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891493Z",
+    "vehicleId": "vehicle-13",
+    "location": {
+      "latitude": "45.075316",
+      "longitude": "-46.949268"
+    }
+  },
+  {
+    "id": "alert-359",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 359",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891498Z",
+    "vehicleId": "vehicle-32",
+    "location": {
+      "latitude": "-80.452940",
+      "longitude": "26.334386"
+    }
+  },
+  {
+    "id": "alert-360",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 360",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891508Z",
+    "vehicleId": "vehicle-66",
+    "location": {
+      "latitude": "44.537947",
+      "longitude": "-23.877426"
+    }
+  },
+  {
+    "id": "alert-361",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 361",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891517Z",
+    "vehicleId": "vehicle-74",
+    "location": {
+      "latitude": "69.899497",
+      "longitude": "-32.090379"
+    }
+  },
+  {
+    "id": "alert-362",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 362",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891523Z",
+    "vehicleId": "vehicle-32",
+    "location": {
+      "latitude": "0.941991",
+      "longitude": "82.552613"
+    }
+  },
+  {
+    "id": "alert-363",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 363",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891531Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "35.897519",
+      "longitude": "-47.476845"
+    }
+  },
+  {
+    "id": "alert-364",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 364",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891536Z",
+    "vehicleId": "vehicle-52",
+    "location": {
+      "latitude": "-29.929299",
+      "longitude": "-39.702765"
+    }
+  },
+  {
+    "id": "alert-365",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 365",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891541Z",
+    "vehicleId": "vehicle-93",
+    "location": {
+      "latitude": "82.727517",
+      "longitude": "-29.268044"
+    }
+  },
+  {
+    "id": "alert-366",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 366",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891546Z",
+    "vehicleId": "vehicle-10",
+    "location": {
+      "latitude": "-82.834072",
+      "longitude": "-55.962817"
+    }
+  },
+  {
+    "id": "alert-367",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 367",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891551Z",
+    "vehicleId": "vehicle-56",
+    "location": {
+      "latitude": "45.907088",
+      "longitude": "-162.520808"
+    }
+  },
+  {
+    "id": "alert-368",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 368",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891556Z",
+    "vehicleId": "vehicle-71",
+    "location": {
+      "latitude": "82.424062",
+      "longitude": "-175.362132"
+    }
+  },
+  {
+    "id": "alert-369",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 369",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891561Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "71.614927",
+      "longitude": "-35.261731"
+    }
+  },
+  {
+    "id": "alert-370",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 370",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891566Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "54.555222",
+      "longitude": "-133.448622"
+    }
+  },
+  {
+    "id": "alert-371",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 371",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891570Z",
+    "vehicleId": "vehicle-13",
+    "location": {
+      "latitude": "-21.434860",
+      "longitude": "-44.756567"
+    }
+  },
+  {
+    "id": "alert-372",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 372",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891576Z",
+    "vehicleId": "vehicle-22",
+    "location": {
+      "latitude": "-15.286369",
+      "longitude": "-155.862821"
+    }
+  },
+  {
+    "id": "alert-373",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 373",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891581Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "13.130532",
+      "longitude": "-108.168589"
+    }
+  },
+  {
+    "id": "alert-374",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 374",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891588Z",
+    "vehicleId": "vehicle-98",
+    "location": {
+      "latitude": "-77.102504",
+      "longitude": "-68.797972"
+    }
+  },
+  {
+    "id": "alert-375",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 375",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891594Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "-9.691446",
+      "longitude": "143.480465"
+    }
+  },
+  {
+    "id": "alert-376",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 376",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891599Z",
+    "vehicleId": "vehicle-12",
+    "location": {
+      "latitude": "-24.680170",
+      "longitude": "114.600837"
+    }
+  },
+  {
+    "id": "alert-377",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 377",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891606Z",
+    "vehicleId": "vehicle-57",
+    "location": {
+      "latitude": "-64.164871",
+      "longitude": "62.957779"
+    }
+  },
+  {
+    "id": "alert-378",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 378",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891611Z",
+    "vehicleId": "vehicle-65",
+    "location": {
+      "latitude": "-70.013968",
+      "longitude": "-144.024258"
+    }
+  },
+  {
+    "id": "alert-379",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 379",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891617Z",
+    "vehicleId": "vehicle-52",
+    "location": {
+      "latitude": "-89.706386",
+      "longitude": "-135.068624"
+    }
+  },
+  {
+    "id": "alert-380",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 380",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891625Z",
+    "vehicleId": "vehicle-10",
+    "location": {
+      "latitude": "78.657129",
+      "longitude": "-122.227205"
+    }
+  },
+  {
+    "id": "alert-381",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 381",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891630Z",
+    "vehicleId": "vehicle-4",
+    "location": {
+      "latitude": "-30.514885",
+      "longitude": "113.369141"
+    }
+  },
+  {
+    "id": "alert-382",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 382",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891635Z",
+    "vehicleId": "vehicle-22",
+    "location": {
+      "latitude": "-61.333283",
+      "longitude": "102.663502"
+    }
+  },
+  {
+    "id": "alert-383",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 383",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891640Z",
+    "vehicleId": "vehicle-21",
+    "location": {
+      "latitude": "80.998695",
+      "longitude": "-133.887051"
+    }
+  },
+  {
+    "id": "alert-384",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 384",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891645Z",
+    "vehicleId": "vehicle-48",
+    "location": {
+      "latitude": "-43.349515",
+      "longitude": "138.847911"
+    }
+  },
+  {
+    "id": "alert-385",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 385",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891652Z",
+    "vehicleId": "vehicle-92",
+    "location": {
+      "latitude": "54.815316",
+      "longitude": "68.394234"
+    }
+  },
+  {
+    "id": "alert-386",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 386",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891662Z",
+    "vehicleId": "vehicle-6",
+    "location": {
+      "latitude": "41.769543",
+      "longitude": "-31.092714"
+    }
+  },
+  {
+    "id": "alert-387",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 387",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891667Z",
+    "vehicleId": "vehicle-20",
+    "location": {
+      "latitude": "-45.149272",
+      "longitude": "56.495048"
+    }
+  },
+  {
+    "id": "alert-388",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 388",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891673Z",
+    "vehicleId": "vehicle-82",
+    "location": {
+      "latitude": "3.860212",
+      "longitude": "126.614313"
+    }
+  },
+  {
+    "id": "alert-389",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 389",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891676Z",
+    "vehicleId": "vehicle-82",
+    "location": {
+      "latitude": "-48.535288",
+      "longitude": "65.979319"
+    }
+  },
+  {
+    "id": "alert-390",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 390",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891682Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "25.316552",
+      "longitude": "-85.852625"
+    }
+  },
+  {
+    "id": "alert-391",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 391",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891688Z",
+    "vehicleId": "vehicle-36",
+    "location": {
+      "latitude": "3.532347",
+      "longitude": "170.331189"
+    }
+  },
+  {
+    "id": "alert-392",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 392",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891694Z",
+    "vehicleId": "vehicle-2",
+    "location": {
+      "latitude": "22.235057",
+      "longitude": "-131.592920"
+    }
+  },
+  {
+    "id": "alert-393",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 393",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891700Z",
+    "vehicleId": "vehicle-43",
+    "location": {
+      "latitude": "39.649637",
+      "longitude": "-33.257701"
+    }
+  },
+  {
+    "id": "alert-394",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 394",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891706Z",
+    "vehicleId": "vehicle-76",
+    "location": {
+      "latitude": "53.498978",
+      "longitude": "48.768896"
+    }
+  },
+  {
+    "id": "alert-395",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 395",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891718Z",
+    "vehicleId": "vehicle-22",
+    "location": {
+      "latitude": "-74.923831",
+      "longitude": "154.108179"
+    }
+  },
+  {
+    "id": "alert-396",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 396",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891723Z",
+    "vehicleId": "vehicle-27",
+    "location": {
+      "latitude": "4.231560",
+      "longitude": "33.173942"
+    }
+  },
+  {
+    "id": "alert-397",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 397",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891728Z",
+    "vehicleId": "vehicle-68",
+    "location": {
+      "latitude": "-48.626745",
+      "longitude": "-83.597581"
+    }
+  },
+  {
+    "id": "alert-398",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 398",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891733Z",
+    "vehicleId": "vehicle-14",
+    "location": {
+      "latitude": "32.114702",
+      "longitude": "-162.066270"
+    }
+  },
+  {
+    "id": "alert-399",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 399",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891741Z",
+    "vehicleId": "vehicle-52",
+    "location": {
+      "latitude": "-41.046506",
+      "longitude": "-55.493540"
+    }
+  },
+  {
+    "id": "alert-400",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 400",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891746Z",
+    "vehicleId": "vehicle-33",
+    "location": {
+      "latitude": "-29.564255",
+      "longitude": "93.547471"
+    }
+  },
+  {
+    "id": "alert-401",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 401",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891751Z",
+    "vehicleId": "vehicle-78",
+    "location": {
+      "latitude": "36.456150",
+      "longitude": "8.217930"
+    }
+  },
+  {
+    "id": "alert-402",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 402",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891756Z",
+    "vehicleId": "vehicle-70",
+    "location": {
+      "latitude": "-25.922204",
+      "longitude": "-92.589231"
+    }
+  },
+  {
+    "id": "alert-403",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 403",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891761Z",
+    "vehicleId": "vehicle-78",
+    "location": {
+      "latitude": "14.956808",
+      "longitude": "101.577846"
+    }
+  },
+  {
+    "id": "alert-404",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 404",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891766Z",
+    "vehicleId": "vehicle-49",
+    "location": {
+      "latitude": "64.431410",
+      "longitude": "-14.144777"
+    }
+  },
+  {
+    "id": "alert-405",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 405",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891770Z",
+    "vehicleId": "vehicle-13",
+    "location": {
+      "latitude": "-23.245910",
+      "longitude": "-130.053808"
+    }
+  },
+  {
+    "id": "alert-406",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 406",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891779Z",
+    "vehicleId": "vehicle-54",
+    "location": {
+      "latitude": "32.918705",
+      "longitude": "-129.828020"
+    }
+  },
+  {
+    "id": "alert-407",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 407",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891785Z",
+    "vehicleId": "vehicle-78",
+    "location": {
+      "latitude": "27.351883",
+      "longitude": "-23.751974"
+    }
+  },
+  {
+    "id": "alert-408",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 408",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891792Z",
+    "vehicleId": "vehicle-29",
+    "location": {
+      "latitude": "-66.525566",
+      "longitude": "-72.104105"
+    }
+  },
+  {
+    "id": "alert-409",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 409",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891798Z",
+    "vehicleId": "vehicle-53",
+    "location": {
+      "latitude": "58.391307",
+      "longitude": "156.201434"
+    }
+  },
+  {
+    "id": "alert-410",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 410",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891804Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "75.416326",
+      "longitude": "127.894073"
+    }
+  },
+  {
+    "id": "alert-411",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 411",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891809Z",
+    "vehicleId": "vehicle-27",
+    "location": {
+      "latitude": "-14.945226",
+      "longitude": "-38.142415"
+    }
+  },
+  {
+    "id": "alert-412",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 412",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891817Z",
+    "vehicleId": "vehicle-27",
+    "location": {
+      "latitude": "-49.519295",
+      "longitude": "10.871713"
+    }
+  },
+  {
+    "id": "alert-413",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 413",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891822Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "-1.188838",
+      "longitude": "-126.548048"
+    }
+  },
+  {
+    "id": "alert-414",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 414",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891827Z",
+    "vehicleId": "vehicle-73",
+    "location": {
+      "latitude": "41.037838",
+      "longitude": "161.866006"
+    }
+  },
+  {
+    "id": "alert-415",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 415",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891832Z",
+    "vehicleId": "vehicle-15",
+    "location": {
+      "latitude": "43.365456",
+      "longitude": "-58.187805"
+    }
+  },
+  {
+    "id": "alert-416",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 416",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891840Z",
+    "vehicleId": "vehicle-21",
+    "location": {
+      "latitude": "19.499151",
+      "longitude": "-107.475086"
+    }
+  },
+  {
+    "id": "alert-417",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 417",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891845Z",
+    "vehicleId": "vehicle-54",
+    "location": {
+      "latitude": "-69.719636",
+      "longitude": "16.519937"
+    }
+  },
+  {
+    "id": "alert-418",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 418",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891852Z",
+    "vehicleId": "vehicle-78",
+    "location": {
+      "latitude": "-81.641966",
+      "longitude": "-65.198044"
+    }
+  },
+  {
+    "id": "alert-419",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 419",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891861Z",
+    "vehicleId": "vehicle-40",
+    "location": {
+      "latitude": "-7.832331",
+      "longitude": "-5.802154"
+    }
+  },
+  {
+    "id": "alert-420",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 420",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891865Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "-20.461940",
+      "longitude": "39.668291"
+    }
+  },
+  {
+    "id": "alert-421",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 421",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891871Z",
+    "vehicleId": "vehicle-5",
+    "location": {
+      "latitude": "-75.762263",
+      "longitude": "135.853193"
+    }
+  },
+  {
+    "id": "alert-422",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 422",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891877Z",
+    "vehicleId": "vehicle-55",
+    "location": {
+      "latitude": "-34.711128",
+      "longitude": "-64.350570"
+    }
+  },
+  {
+    "id": "alert-423",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 423",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891883Z",
+    "vehicleId": "vehicle-29",
+    "location": {
+      "latitude": "-54.063686",
+      "longitude": "8.013263"
+    }
+  },
+  {
+    "id": "alert-424",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 424",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891889Z",
+    "vehicleId": "vehicle-69",
+    "location": {
+      "latitude": "-42.862800",
+      "longitude": "135.671278"
+    }
+  },
+  {
+    "id": "alert-425",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 425",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891895Z",
+    "vehicleId": "vehicle-25",
+    "location": {
+      "latitude": "-60.426867",
+      "longitude": "163.340657"
+    }
+  },
+  {
+    "id": "alert-426",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 426",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891900Z",
+    "vehicleId": "vehicle-18",
+    "location": {
+      "latitude": "-64.208475",
+      "longitude": "130.160622"
+    }
+  },
+  {
+    "id": "alert-427",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 427",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891908Z",
+    "vehicleId": "vehicle-86",
+    "location": {
+      "latitude": "-55.322764",
+      "longitude": "-46.887286"
+    }
+  },
+  {
+    "id": "alert-428",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 428",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891914Z",
+    "vehicleId": "vehicle-10",
+    "location": {
+      "latitude": "-55.584879",
+      "longitude": "-109.235182"
+    }
+  },
+  {
+    "id": "alert-429",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 429",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891918Z",
+    "vehicleId": "vehicle-71",
+    "location": {
+      "latitude": "-49.175098",
+      "longitude": "-65.141426"
+    }
+  },
+  {
+    "id": "alert-430",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 430",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891923Z",
+    "vehicleId": "vehicle-37",
+    "location": {
+      "latitude": "-70.041480",
+      "longitude": "-62.130976"
+    }
+  },
+  {
+    "id": "alert-431",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 431",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891929Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "40.537773",
+      "longitude": "-95.088981"
+    }
+  },
+  {
+    "id": "alert-432",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 432",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891934Z",
+    "vehicleId": "vehicle-72",
+    "location": {
+      "latitude": "79.143775",
+      "longitude": "47.217124"
+    }
+  },
+  {
+    "id": "alert-433",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 433",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891939Z",
+    "vehicleId": "vehicle-3",
+    "location": {
+      "latitude": "13.142287",
+      "longitude": "-85.671770"
+    }
+  },
+  {
+    "id": "alert-434",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 434",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891944Z",
+    "vehicleId": "vehicle-59",
+    "location": {
+      "latitude": "-78.893018",
+      "longitude": "-171.632568"
+    }
+  },
+  {
+    "id": "alert-435",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 435",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891949Z",
+    "vehicleId": "vehicle-53",
+    "location": {
+      "latitude": "25.398409",
+      "longitude": "-79.102646"
+    }
+  },
+  {
+    "id": "alert-436",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 436",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891955Z",
+    "vehicleId": "vehicle-66",
+    "location": {
+      "latitude": "-13.848546",
+      "longitude": "-83.364407"
+    }
+  },
+  {
+    "id": "alert-437",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 437",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891962Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "-33.816511",
+      "longitude": "119.491721"
+    }
+  },
+  {
+    "id": "alert-438",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 438",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891974Z",
+    "vehicleId": "vehicle-43",
+    "location": {
+      "latitude": "-2.377462",
+      "longitude": "-27.861773"
+    }
+  },
+  {
+    "id": "alert-439",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 439",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.891981Z",
+    "vehicleId": "vehicle-5",
+    "location": {
+      "latitude": "-40.106957",
+      "longitude": "-135.086171"
+    }
+  },
+  {
+    "id": "alert-440",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 440",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891987Z",
+    "vehicleId": "vehicle-73",
+    "location": {
+      "latitude": "17.251216",
+      "longitude": "-26.713819"
+    }
+  },
+  {
+    "id": "alert-441",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 441",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891992Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "87.083090",
+      "longitude": "116.631249"
+    }
+  },
+  {
+    "id": "alert-442",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 442",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.891997Z",
+    "vehicleId": "vehicle-76",
+    "location": {
+      "latitude": "-36.829776",
+      "longitude": "-62.071968"
+    }
+  },
+  {
+    "id": "alert-443",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 443",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892002Z",
+    "vehicleId": "vehicle-40",
+    "location": {
+      "latitude": "48.285530",
+      "longitude": "120.979188"
+    }
+  },
+  {
+    "id": "alert-444",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 444",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892007Z",
+    "vehicleId": "vehicle-32",
+    "location": {
+      "latitude": "-76.295713",
+      "longitude": "-62.444056"
+    }
+  },
+  {
+    "id": "alert-445",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 445",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892012Z",
+    "vehicleId": "vehicle-33",
+    "location": {
+      "latitude": "18.106575",
+      "longitude": "-85.043937"
+    }
+  },
+  {
+    "id": "alert-446",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 446",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892017Z",
+    "vehicleId": "vehicle-20",
+    "location": {
+      "latitude": "-50.535615",
+      "longitude": "-123.024137"
+    }
+  },
+  {
+    "id": "alert-447",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 447",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892022Z",
+    "vehicleId": "vehicle-74",
+    "location": {
+      "latitude": "3.834455",
+      "longitude": "135.321933"
+    }
+  },
+  {
+    "id": "alert-448",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 448",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892030Z",
+    "vehicleId": "vehicle-43",
+    "location": {
+      "latitude": "32.893140",
+      "longitude": "93.246597"
+    }
+  },
+  {
+    "id": "alert-449",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 449",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892035Z",
+    "vehicleId": "vehicle-15",
+    "location": {
+      "latitude": "-74.697998",
+      "longitude": "103.908405"
+    }
+  },
+  {
+    "id": "alert-450",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 450",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892042Z",
+    "vehicleId": "vehicle-17",
+    "location": {
+      "latitude": "-58.252806",
+      "longitude": "-104.119956"
+    }
+  },
+  {
+    "id": "alert-451",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 451",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892047Z",
+    "vehicleId": "vehicle-83",
+    "location": {
+      "latitude": "25.692729",
+      "longitude": "75.964267"
+    }
+  },
+  {
+    "id": "alert-452",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 452",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892052Z",
+    "vehicleId": "vehicle-70",
+    "location": {
+      "latitude": "37.746883",
+      "longitude": "146.070887"
+    }
+  },
+  {
+    "id": "alert-453",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 453",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892057Z",
+    "vehicleId": "vehicle-31",
+    "location": {
+      "latitude": "-13.227715",
+      "longitude": "64.597828"
+    }
+  },
+  {
+    "id": "alert-454",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 454",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892063Z",
+    "vehicleId": "vehicle-38",
+    "location": {
+      "latitude": "40.828174",
+      "longitude": "-173.983061"
+    }
+  },
+  {
+    "id": "alert-455",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 455",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892069Z",
+    "vehicleId": "vehicle-81",
+    "location": {
+      "latitude": "-51.144859",
+      "longitude": "20.033484"
+    }
+  },
+  {
+    "id": "alert-456",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 456",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892075Z",
+    "vehicleId": "vehicle-63",
+    "location": {
+      "latitude": "-0.514417",
+      "longitude": "73.861179"
+    }
+  },
+  {
+    "id": "alert-457",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 457",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892081Z",
+    "vehicleId": "vehicle-29",
+    "location": {
+      "latitude": "-52.862299",
+      "longitude": "4.862666"
+    }
+  },
+  {
+    "id": "alert-458",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 458",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892094Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "84.630593",
+      "longitude": "53.567971"
+    }
+  },
+  {
+    "id": "alert-459",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 459",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892102Z",
+    "vehicleId": "vehicle-9",
+    "location": {
+      "latitude": "-56.880258",
+      "longitude": "-72.432623"
+    }
+  },
+  {
+    "id": "alert-460",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 460",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892107Z",
+    "vehicleId": "vehicle-50",
+    "location": {
+      "latitude": "14.715470",
+      "longitude": "144.076240"
+    }
+  },
+  {
+    "id": "alert-461",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 461",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892112Z",
+    "vehicleId": "vehicle-64",
+    "location": {
+      "latitude": "84.199479",
+      "longitude": "29.685397"
+    }
+  },
+  {
+    "id": "alert-462",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 462",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892117Z",
+    "vehicleId": "vehicle-17",
+    "location": {
+      "latitude": "57.443522",
+      "longitude": "-177.586047"
+    }
+  },
+  {
+    "id": "alert-463",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 463",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892129Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "14.482415",
+      "longitude": "-119.287435"
+    }
+  },
+  {
+    "id": "alert-464",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 464",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892134Z",
+    "vehicleId": "vehicle-85",
+    "location": {
+      "latitude": "60.572201",
+      "longitude": "28.687942"
+    }
+  },
+  {
+    "id": "alert-465",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 465",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892139Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "-14.976701",
+      "longitude": "-24.566427"
+    }
+  },
+  {
+    "id": "alert-466",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 466",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892144Z",
+    "vehicleId": "vehicle-87",
+    "location": {
+      "latitude": "-69.427806",
+      "longitude": "-46.292595"
+    }
+  },
+  {
+    "id": "alert-467",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 467",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892150Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "10.610746",
+      "longitude": "88.381239"
+    }
+  },
+  {
+    "id": "alert-468",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 468",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892156Z",
+    "vehicleId": "vehicle-19",
+    "location": {
+      "latitude": "68.903513",
+      "longitude": "-176.676668"
+    }
+  },
+  {
+    "id": "alert-469",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 469",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892162Z",
+    "vehicleId": "vehicle-37",
+    "location": {
+      "latitude": "2.228328",
+      "longitude": "-45.740645"
+    }
+  },
+  {
+    "id": "alert-470",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 470",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892171Z",
+    "vehicleId": "vehicle-7",
+    "location": {
+      "latitude": "-23.902250",
+      "longitude": "-5.706457"
+    }
+  },
+  {
+    "id": "alert-471",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 471",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892176Z",
+    "vehicleId": "vehicle-14",
+    "location": {
+      "latitude": "46.642876",
+      "longitude": "-43.594319"
+    }
+  },
+  {
+    "id": "alert-472",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 472",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892181Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "51.201006",
+      "longitude": "-168.341777"
+    }
+  },
+  {
+    "id": "alert-473",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 473",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892186Z",
+    "vehicleId": "vehicle-68",
+    "location": {
+      "latitude": "-26.631872",
+      "longitude": "43.243338"
+    }
+  },
+  {
+    "id": "alert-474",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 474",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892191Z",
+    "vehicleId": "vehicle-41",
+    "location": {
+      "latitude": "-63.626388",
+      "longitude": "159.178057"
+    }
+  },
+  {
+    "id": "alert-475",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 475",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892196Z",
+    "vehicleId": "vehicle-67",
+    "location": {
+      "latitude": "-70.749156",
+      "longitude": "-87.589577"
+    }
+  },
+  {
+    "id": "alert-476",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 476",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892201Z",
+    "vehicleId": "vehicle-45",
+    "location": {
+      "latitude": "47.366288",
+      "longitude": "118.742880"
+    }
+  },
+  {
+    "id": "alert-477",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 477",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892208Z",
+    "vehicleId": "vehicle-69",
+    "location": {
+      "latitude": "56.663450",
+      "longitude": "-58.127883"
+    }
+  },
+  {
+    "id": "alert-478",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 478",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892214Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "1.554395",
+      "longitude": "42.746786"
+    }
+  },
+  {
+    "id": "alert-479",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 479",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892244Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "87.597448",
+      "longitude": "-30.943118"
+    }
+  },
+  {
+    "id": "alert-480",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 480",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892252Z",
+    "vehicleId": "vehicle-55",
+    "location": {
+      "latitude": "-20.453327",
+      "longitude": "-137.374595"
+    }
+  },
+  {
+    "id": "alert-481",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 481",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892257Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "66.758957",
+      "longitude": "-166.897536"
+    }
+  },
+  {
+    "id": "alert-482",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 482",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892265Z",
+    "vehicleId": "vehicle-70",
+    "location": {
+      "latitude": "-54.458645",
+      "longitude": "57.326432"
+    }
+  },
+  {
+    "id": "alert-483",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 483",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892270Z",
+    "vehicleId": "vehicle-19",
+    "location": {
+      "latitude": "-26.363994",
+      "longitude": "0.363317"
+    }
+  },
+  {
+    "id": "alert-484",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 484",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892275Z",
+    "vehicleId": "vehicle-55",
+    "location": {
+      "latitude": "45.438437",
+      "longitude": "3.093568"
+    }
+  },
+  {
+    "id": "alert-485",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 485",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892280Z",
+    "vehicleId": "vehicle-87",
+    "location": {
+      "latitude": "43.595477",
+      "longitude": "99.620791"
+    }
+  },
+  {
+    "id": "alert-486",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 486",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892285Z",
+    "vehicleId": "vehicle-70",
+    "location": {
+      "latitude": "52.001630",
+      "longitude": "-166.523666"
+    }
+  },
+  {
+    "id": "alert-487",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 487",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892291Z",
+    "vehicleId": "vehicle-97",
+    "location": {
+      "latitude": "4.308467",
+      "longitude": "89.939975"
+    }
+  },
+  {
+    "id": "alert-488",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 488",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892298Z",
+    "vehicleId": "vehicle-97",
+    "location": {
+      "latitude": "79.148722",
+      "longitude": "160.513311"
+    }
+  },
+  {
+    "id": "alert-489",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 489",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892304Z",
+    "vehicleId": "vehicle-29",
+    "location": {
+      "latitude": "-32.029913",
+      "longitude": "-89.733131"
+    }
+  },
+  {
+    "id": "alert-490",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 490",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892309Z",
+    "vehicleId": "vehicle-56",
+    "location": {
+      "latitude": "55.912112",
+      "longitude": "101.327680"
+    }
+  },
+  {
+    "id": "alert-491",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 491",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892319Z",
+    "vehicleId": "vehicle-95",
+    "location": {
+      "latitude": "-22.326857",
+      "longitude": "-72.586566"
+    }
+  },
+  {
+    "id": "alert-492",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 492",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892325Z",
+    "vehicleId": "vehicle-90",
+    "location": {
+      "latitude": "-82.225084",
+      "longitude": "-83.929562"
+    }
+  },
+  {
+    "id": "alert-493",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 493",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892331Z",
+    "vehicleId": "vehicle-53",
+    "location": {
+      "latitude": "-41.862847",
+      "longitude": "-44.031942"
+    }
+  },
+  {
+    "id": "alert-494",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 494",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892336Z",
+    "vehicleId": "vehicle-4",
+    "location": {
+      "latitude": "-25.943000",
+      "longitude": "130.217696"
+    }
+  },
+  {
+    "id": "alert-495",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 495",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892341Z",
+    "vehicleId": "vehicle-48",
+    "location": {
+      "latitude": "-6.074447",
+      "longitude": "68.656720"
+    }
+  },
+  {
+    "id": "alert-496",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 496",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892346Z",
+    "vehicleId": "vehicle-95",
+    "location": {
+      "latitude": "-70.630295",
+      "longitude": "42.202626"
+    }
+  },
+  {
+    "id": "alert-497",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 497",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892354Z",
+    "vehicleId": "vehicle-8",
+    "location": {
+      "latitude": "10.884995",
+      "longitude": "173.744885"
+    }
+  },
+  {
+    "id": "alert-498",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 498",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892359Z",
+    "vehicleId": "vehicle-96",
+    "location": {
+      "latitude": "-11.483901",
+      "longitude": "95.979673"
+    }
+  },
+  {
+    "id": "alert-499",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 499",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892364Z",
+    "vehicleId": "vehicle-63",
+    "location": {
+      "latitude": "-54.705712",
+      "longitude": "-112.078609"
+    }
+  },
+  {
+    "id": "alert-500",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 500",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892368Z",
+    "vehicleId": "vehicle-97",
+    "location": {
+      "latitude": "76.290116",
+      "longitude": "-149.238289"
+    }
+  },
+  {
+    "id": "alert-501",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 501",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892376Z",
+    "vehicleId": "vehicle-37",
+    "location": {
+      "latitude": "7.156360",
+      "longitude": "-121.107542"
+    }
+  },
+  {
+    "id": "alert-502",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 502",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892381Z",
+    "vehicleId": "vehicle-55",
+    "location": {
+      "latitude": "1.356540",
+      "longitude": "-33.263158"
+    }
+  },
+  {
+    "id": "alert-503",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 503",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892386Z",
+    "vehicleId": "vehicle-30",
+    "location": {
+      "latitude": "68.938524",
+      "longitude": "-5.658882"
+    }
+  },
+  {
+    "id": "alert-504",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 504",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892391Z",
+    "vehicleId": "vehicle-8",
+    "location": {
+      "latitude": "-29.781812",
+      "longitude": "164.759352"
+    }
+  },
+  {
+    "id": "alert-505",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 505",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892396Z",
+    "vehicleId": "vehicle-11",
+    "location": {
+      "latitude": "-78.919972",
+      "longitude": "-97.586920"
+    }
+  },
+  {
+    "id": "alert-506",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 506",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892402Z",
+    "vehicleId": "vehicle-82",
+    "location": {
+      "latitude": "-75.408592",
+      "longitude": "40.151920"
+    }
+  },
+  {
+    "id": "alert-507",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 507",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892408Z",
+    "vehicleId": "vehicle-35",
+    "location": {
+      "latitude": "-83.754002",
+      "longitude": "-103.507626"
+    }
+  },
+  {
+    "id": "alert-508",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 508",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892414Z",
+    "vehicleId": "vehicle-40",
+    "location": {
+      "latitude": "-0.632724",
+      "longitude": "23.099080"
+    }
+  },
+  {
+    "id": "alert-509",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 509",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892420Z",
+    "vehicleId": "vehicle-19",
+    "location": {
+      "latitude": "-61.734612",
+      "longitude": "-85.501150"
+    }
+  },
+  {
+    "id": "alert-510",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 510",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892426Z",
+    "vehicleId": "vehicle-81",
+    "location": {
+      "latitude": "-87.488393",
+      "longitude": "-66.831918"
+    }
+  },
+  {
+    "id": "alert-511",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 511",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892431Z",
+    "vehicleId": "vehicle-76",
+    "location": {
+      "latitude": "-84.165571",
+      "longitude": "87.751217"
+    }
+  },
+  {
+    "id": "alert-512",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 512",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892439Z",
+    "vehicleId": "vehicle-25",
+    "location": {
+      "latitude": "13.024254",
+      "longitude": "23.280265"
+    }
+  },
+  {
+    "id": "alert-513",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 513",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892447Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "72.418246",
+      "longitude": "94.211368"
+    }
+  },
+  {
+    "id": "alert-514",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 514",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892455Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "36.549058",
+      "longitude": "63.033863"
+    }
+  },
+  {
+    "id": "alert-515",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 515",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892460Z",
+    "vehicleId": "vehicle-23",
+    "location": {
+      "latitude": "31.394059",
+      "longitude": "-39.324437"
+    }
+  },
+  {
+    "id": "alert-516",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 516",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892467Z",
+    "vehicleId": "vehicle-49",
+    "location": {
+      "latitude": "8.050557",
+      "longitude": "61.309894"
+    }
+  },
+  {
+    "id": "alert-517",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 517",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892472Z",
+    "vehicleId": "vehicle-32",
+    "location": {
+      "latitude": "14.784065",
+      "longitude": "-88.657829"
+    }
+  },
+  {
+    "id": "alert-518",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 518",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892477Z",
+    "vehicleId": "vehicle-68",
+    "location": {
+      "latitude": "-49.198379",
+      "longitude": "-35.679015"
+    }
+  },
+  {
+    "id": "alert-519",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 519",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892483Z",
+    "vehicleId": "vehicle-20",
+    "location": {
+      "latitude": "70.493676",
+      "longitude": "67.758411"
+    }
+  },
+  {
+    "id": "alert-520",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 520",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892488Z",
+    "vehicleId": "vehicle-91",
+    "location": {
+      "latitude": "-83.800779",
+      "longitude": "6.744241"
+    }
+  },
+  {
+    "id": "alert-521",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 521",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892494Z",
+    "vehicleId": "vehicle-82",
+    "location": {
+      "latitude": "10.051060",
+      "longitude": "65.175328"
+    }
+  },
+  {
+    "id": "alert-522",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 522",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892500Z",
+    "vehicleId": "vehicle-30",
+    "location": {
+      "latitude": "38.816972",
+      "longitude": "103.334957"
+    }
+  },
+  {
+    "id": "alert-523",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 523",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892509Z",
+    "vehicleId": "vehicle-45",
+    "location": {
+      "latitude": "-41.299537",
+      "longitude": "152.749559"
+    }
+  },
+  {
+    "id": "alert-524",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 524",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892516Z",
+    "vehicleId": "vehicle-90",
+    "location": {
+      "latitude": "41.295945",
+      "longitude": "111.044578"
+    }
+  },
+  {
+    "id": "alert-525",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 525",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892521Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "9.914413",
+      "longitude": "7.275102"
+    }
+  },
+  {
+    "id": "alert-526",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 526",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892526Z",
+    "vehicleId": "vehicle-45",
+    "location": {
+      "latitude": "22.589965",
+      "longitude": "67.601989"
+    }
+  },
+  {
+    "id": "alert-527",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 527",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892531Z",
+    "vehicleId": "vehicle-55",
+    "location": {
+      "latitude": "52.779707",
+      "longitude": "-17.396610"
+    }
+  },
+  {
+    "id": "alert-528",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 528",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892536Z",
+    "vehicleId": "vehicle-30",
+    "location": {
+      "latitude": "-29.611587",
+      "longitude": "-101.663332"
+    }
+  },
+  {
+    "id": "alert-529",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 529",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892541Z",
+    "vehicleId": "vehicle-76",
+    "location": {
+      "latitude": "55.727554",
+      "longitude": "100.920834"
+    }
+  },
+  {
+    "id": "alert-530",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 530",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892546Z",
+    "vehicleId": "vehicle-73",
+    "location": {
+      "latitude": "-41.821221",
+      "longitude": "-109.329629"
+    }
+  },
+  {
+    "id": "alert-531",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 531",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892551Z",
+    "vehicleId": "vehicle-39",
+    "location": {
+      "latitude": "29.011040",
+      "longitude": "21.372322"
+    }
+  },
+  {
+    "id": "alert-532",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 532",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892556Z",
+    "vehicleId": "vehicle-95",
+    "location": {
+      "latitude": "-31.953847",
+      "longitude": "-37.198006"
+    }
+  },
+  {
+    "id": "alert-533",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 533",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892563Z",
+    "vehicleId": "vehicle-22",
+    "location": {
+      "latitude": "70.660962",
+      "longitude": "153.046857"
+    }
+  },
+  {
+    "id": "alert-534",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 534",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892568Z",
+    "vehicleId": "vehicle-92",
+    "location": {
+      "latitude": "83.179538",
+      "longitude": "-140.134605"
+    }
+  },
+  {
+    "id": "alert-535",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 535",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892574Z",
+    "vehicleId": "vehicle-74",
+    "location": {
+      "latitude": "19.704547",
+      "longitude": "-31.305448"
+    }
+  },
+  {
+    "id": "alert-536",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 536",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892585Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "30.963286",
+      "longitude": "100.210754"
+    }
+  },
+  {
+    "id": "alert-537",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 537",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892591Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "-49.650008",
+      "longitude": "15.884263"
+    }
+  },
+  {
+    "id": "alert-538",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 538",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892597Z",
+    "vehicleId": "vehicle-7",
+    "location": {
+      "latitude": "-8.853291",
+      "longitude": "173.079341"
+    }
+  },
+  {
+    "id": "alert-539",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 539",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892606Z",
+    "vehicleId": "vehicle-94",
+    "location": {
+      "latitude": "-64.844309",
+      "longitude": "-130.609602"
+    }
+  },
+  {
+    "id": "alert-540",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 540",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892612Z",
+    "vehicleId": "vehicle-60",
+    "location": {
+      "latitude": "-86.708408",
+      "longitude": "77.795531"
+    }
+  },
+  {
+    "id": "alert-541",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 541",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892617Z",
+    "vehicleId": "vehicle-62",
+    "location": {
+      "latitude": "33.759052",
+      "longitude": "174.168000"
+    }
+  },
+  {
+    "id": "alert-542",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 542",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892622Z",
+    "vehicleId": "vehicle-55",
+    "location": {
+      "latitude": "-74.074595",
+      "longitude": "-133.450329"
+    }
+  },
+  {
+    "id": "alert-543",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 543",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892627Z",
+    "vehicleId": "vehicle-65",
+    "location": {
+      "latitude": "34.033122",
+      "longitude": "-87.284997"
+    }
+  },
+  {
+    "id": "alert-544",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 544",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892635Z",
+    "vehicleId": "vehicle-1",
+    "location": {
+      "latitude": "19.909913",
+      "longitude": "133.057476"
+    }
+  },
+  {
+    "id": "alert-545",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 545",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892643Z",
+    "vehicleId": "vehicle-66",
+    "location": {
+      "latitude": "-32.110384",
+      "longitude": "-47.456459"
+    }
+  },
+  {
+    "id": "alert-546",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 546",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892648Z",
+    "vehicleId": "vehicle-79",
+    "location": {
+      "latitude": "38.614489",
+      "longitude": "-112.170209"
+    }
+  },
+  {
+    "id": "alert-547",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 547",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892653Z",
+    "vehicleId": "vehicle-49",
+    "location": {
+      "latitude": "35.953753",
+      "longitude": "-168.749826"
+    }
+  },
+  {
+    "id": "alert-548",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 548",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892658Z",
+    "vehicleId": "vehicle-53",
+    "location": {
+      "latitude": "-46.216874",
+      "longitude": "-129.884347"
+    }
+  },
+  {
+    "id": "alert-549",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 549",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892663Z",
+    "vehicleId": "vehicle-45",
+    "location": {
+      "latitude": "-2.435967",
+      "longitude": "64.792082"
+    }
+  },
+  {
+    "id": "alert-550",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 550",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892668Z",
+    "vehicleId": "vehicle-60",
+    "location": {
+      "latitude": "56.604112",
+      "longitude": "139.291123"
+    }
+  },
+  {
+    "id": "alert-551",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 551",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892672Z",
+    "vehicleId": "vehicle-23",
+    "location": {
+      "latitude": "27.517988",
+      "longitude": "97.988516"
+    }
+  },
+  {
+    "id": "alert-552",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 552",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892676Z",
+    "vehicleId": "vehicle-6",
+    "location": {
+      "latitude": "-16.647425",
+      "longitude": "-89.942770"
+    }
+  },
+  {
+    "id": "alert-553",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 553",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892679Z",
+    "vehicleId": "vehicle-15",
+    "location": {
+      "latitude": "-43.750214",
+      "longitude": "31.723130"
+    }
+  },
+  {
+    "id": "alert-554",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 554",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892682Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "19.493372",
+      "longitude": "-102.986274"
+    }
+  },
+  {
+    "id": "alert-555",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 555",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892689Z",
+    "vehicleId": "vehicle-21",
+    "location": {
+      "latitude": "-7.688359",
+      "longitude": "-1.594323"
+    }
+  },
+  {
+    "id": "alert-556",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 556",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892693Z",
+    "vehicleId": "vehicle-75",
+    "location": {
+      "latitude": "-14.170191",
+      "longitude": "64.751522"
+    }
+  },
+  {
+    "id": "alert-557",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 557",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892698Z",
+    "vehicleId": "vehicle-38",
+    "location": {
+      "latitude": "-74.522887",
+      "longitude": "-5.373783"
+    }
+  },
+  {
+    "id": "alert-558",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 558",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892703Z",
+    "vehicleId": "vehicle-54",
+    "location": {
+      "latitude": "81.558570",
+      "longitude": "145.651120"
+    }
+  },
+  {
+    "id": "alert-559",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 559",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892709Z",
+    "vehicleId": "vehicle-49",
+    "location": {
+      "latitude": "-16.382845",
+      "longitude": "-122.020088"
+    }
+  },
+  {
+    "id": "alert-560",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 560",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892715Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "-44.583969",
+      "longitude": "116.670645"
+    }
+  },
+  {
+    "id": "alert-561",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 561",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892721Z",
+    "vehicleId": "vehicle-96",
+    "location": {
+      "latitude": "16.481882",
+      "longitude": "154.740270"
+    }
+  },
+  {
+    "id": "alert-562",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 562",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892727Z",
+    "vehicleId": "vehicle-73",
+    "location": {
+      "latitude": "-51.411931",
+      "longitude": "130.297099"
+    }
+  },
+  {
+    "id": "alert-563",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 563",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892731Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "42.692922",
+      "longitude": "80.731391"
+    }
+  },
+  {
+    "id": "alert-564",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 564",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892736Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "-49.578842",
+      "longitude": "-56.414142"
+    }
+  },
+  {
+    "id": "alert-565",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 565",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892756Z",
+    "vehicleId": "vehicle-67",
+    "location": {
+      "latitude": "39.364123",
+      "longitude": "145.897884"
+    }
+  },
+  {
+    "id": "alert-566",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 566",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892761Z",
+    "vehicleId": "vehicle-96",
+    "location": {
+      "latitude": "-49.187800",
+      "longitude": "-101.563050"
+    }
+  },
+  {
+    "id": "alert-567",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 567",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892766Z",
+    "vehicleId": "vehicle-38",
+    "location": {
+      "latitude": "-8.027860",
+      "longitude": "134.160031"
+    }
+  },
+  {
+    "id": "alert-568",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 568",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892771Z",
+    "vehicleId": "vehicle-61",
+    "location": {
+      "latitude": "-13.260955",
+      "longitude": "127.072333"
+    }
+  },
+  {
+    "id": "alert-569",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 569",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892776Z",
+    "vehicleId": "vehicle-24",
+    "location": {
+      "latitude": "-65.251495",
+      "longitude": "-11.993002"
+    }
+  },
+  {
+    "id": "alert-570",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 570",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892782Z",
+    "vehicleId": "vehicle-43",
+    "location": {
+      "latitude": "37.734343",
+      "longitude": "-109.006803"
+    }
+  },
+  {
+    "id": "alert-571",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 571",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892786Z",
+    "vehicleId": "vehicle-25",
+    "location": {
+      "latitude": "-86.931911",
+      "longitude": "171.633279"
+    }
+  },
+  {
+    "id": "alert-572",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 572",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892790Z",
+    "vehicleId": "vehicle-20",
+    "location": {
+      "latitude": "-59.754734",
+      "longitude": "-132.288147"
+    }
+  },
+  {
+    "id": "alert-573",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 573",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892793Z",
+    "vehicleId": "vehicle-99",
+    "location": {
+      "latitude": "-3.368117",
+      "longitude": "165.665392"
+    }
+  },
+  {
+    "id": "alert-574",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 574",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892796Z",
+    "vehicleId": "vehicle-82",
+    "location": {
+      "latitude": "61.135947",
+      "longitude": "137.671095"
+    }
+  },
+  {
+    "id": "alert-575",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 575",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892801Z",
+    "vehicleId": "vehicle-91",
+    "location": {
+      "latitude": "-31.163567",
+      "longitude": "-96.273265"
+    }
+  },
+  {
+    "id": "alert-576",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 576",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892806Z",
+    "vehicleId": "vehicle-91",
+    "location": {
+      "latitude": "-37.852615",
+      "longitude": "-165.877170"
+    }
+  },
+  {
+    "id": "alert-577",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 577",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892811Z",
+    "vehicleId": "vehicle-79",
+    "location": {
+      "latitude": "-19.163784",
+      "longitude": "-178.301496"
+    }
+  },
+  {
+    "id": "alert-578",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 578",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892815Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "-41.398345",
+      "longitude": "122.335474"
+    }
+  },
+  {
+    "id": "alert-579",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 579",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892818Z",
+    "vehicleId": "vehicle-47",
+    "location": {
+      "latitude": "-36.750990",
+      "longitude": "-76.825429"
+    }
+  },
+  {
+    "id": "alert-580",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 580",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892821Z",
+    "vehicleId": "vehicle-13",
+    "location": {
+      "latitude": "-23.839236",
+      "longitude": "-119.939124"
+    }
+  },
+  {
+    "id": "alert-581",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 581",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892824Z",
+    "vehicleId": "vehicle-38",
+    "location": {
+      "latitude": "-25.175330",
+      "longitude": "-128.967645"
+    }
+  },
+  {
+    "id": "alert-582",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 582",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892827Z",
+    "vehicleId": "vehicle-80",
+    "location": {
+      "latitude": "82.989225",
+      "longitude": "-68.115366"
+    }
+  },
+  {
+    "id": "alert-583",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 583",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892829Z",
+    "vehicleId": "vehicle-93",
+    "location": {
+      "latitude": "80.999637",
+      "longitude": "163.221584"
+    }
+  },
+  {
+    "id": "alert-584",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 584",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892833Z",
+    "vehicleId": "vehicle-9",
+    "location": {
+      "latitude": "-65.917088",
+      "longitude": "69.474973"
+    }
+  },
+  {
+    "id": "alert-585",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 585",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892836Z",
+    "vehicleId": "vehicle-90",
+    "location": {
+      "latitude": "-58.509767",
+      "longitude": "-106.395287"
+    }
+  },
+  {
+    "id": "alert-586",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 586",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892844Z",
+    "vehicleId": "vehicle-60",
+    "location": {
+      "latitude": "-63.601219",
+      "longitude": "91.887698"
+    }
+  },
+  {
+    "id": "alert-587",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 587",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892848Z",
+    "vehicleId": "vehicle-46",
+    "location": {
+      "latitude": "-30.856675",
+      "longitude": "167.514157"
+    }
+  },
+  {
+    "id": "alert-588",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 588",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892854Z",
+    "vehicleId": "vehicle-95",
+    "location": {
+      "latitude": "-54.707885",
+      "longitude": "178.354453"
+    }
+  },
+  {
+    "id": "alert-589",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 589",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892859Z",
+    "vehicleId": "vehicle-89",
+    "location": {
+      "latitude": "-57.903177",
+      "longitude": "70.830686"
+    }
+  },
+  {
+    "id": "alert-590",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 590",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892868Z",
+    "vehicleId": "vehicle-37",
+    "location": {
+      "latitude": "-88.386075",
+      "longitude": "106.237227"
+    }
+  },
+  {
+    "id": "alert-591",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 591",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892875Z",
+    "vehicleId": "vehicle-68",
+    "location": {
+      "latitude": "60.593222",
+      "longitude": "-153.339665"
+    }
+  },
+  {
+    "id": "alert-592",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 592",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892881Z",
+    "vehicleId": "vehicle-74",
+    "location": {
+      "latitude": "1.893364",
+      "longitude": "69.157755"
+    }
+  },
+  {
+    "id": "alert-593",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 593",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892887Z",
+    "vehicleId": "vehicle-45",
+    "location": {
+      "latitude": "-71.757145",
+      "longitude": "-129.242657"
+    }
+  },
+  {
+    "id": "alert-594",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 594",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892894Z",
+    "vehicleId": "vehicle-30",
+    "location": {
+      "latitude": "-14.199703",
+      "longitude": "62.727330"
+    }
+  },
+  {
+    "id": "alert-595",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 595",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892899Z",
+    "vehicleId": "vehicle-16",
+    "location": {
+      "latitude": "-80.522705",
+      "longitude": "67.814920"
+    }
+  },
+  {
+    "id": "alert-596",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 596",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892904Z",
+    "vehicleId": "vehicle-38",
+    "location": {
+      "latitude": "-28.077670",
+      "longitude": "26.728940"
+    }
+  },
+  {
+    "id": "alert-597",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 597",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892912Z",
+    "vehicleId": "vehicle-77",
+    "location": {
+      "latitude": "-48.279309",
+      "longitude": "16.450049"
+    }
+  },
+  {
+    "id": "alert-598",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 598",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892917Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "33.336040",
+      "longitude": "-46.787165"
+    }
+  },
+  {
+    "id": "alert-599",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 599",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892922Z",
+    "vehicleId": "vehicle-5",
+    "location": {
+      "latitude": "64.400478",
+      "longitude": "-22.286490"
+    }
+  },
+  {
+    "id": "alert-600",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 600",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892927Z",
+    "vehicleId": "vehicle-18",
+    "location": {
+      "latitude": "39.279959",
+      "longitude": "-71.018253"
+    }
+  },
+  {
+    "id": "alert-601",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 601",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892932Z",
+    "vehicleId": "vehicle-35",
+    "location": {
+      "latitude": "-4.755276",
+      "longitude": "139.876744"
+    }
+  },
+  {
+    "id": "alert-602",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 602",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892938Z",
+    "vehicleId": "vehicle-70",
+    "location": {
+      "latitude": "-53.671226",
+      "longitude": "3.854824"
+    }
+  },
+  {
+    "id": "alert-603",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 603",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892943Z",
+    "vehicleId": "vehicle-5",
+    "location": {
+      "latitude": "47.566856",
+      "longitude": "49.186932"
+    }
+  },
+  {
+    "id": "alert-604",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 604",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892946Z",
+    "vehicleId": "vehicle-9",
+    "location": {
+      "latitude": "-7.281772",
+      "longitude": "-101.574580"
+    }
+  },
+  {
+    "id": "alert-605",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 605",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892949Z",
+    "vehicleId": "vehicle-13",
+    "location": {
+      "latitude": "-60.250818",
+      "longitude": "153.614554"
+    }
+  },
+  {
+    "id": "alert-606",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 606",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892952Z",
+    "vehicleId": "vehicle-100",
+    "location": {
+      "latitude": "-88.858518",
+      "longitude": "117.310586"
+    }
+  },
+  {
+    "id": "alert-607",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 607",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892955Z",
+    "vehicleId": "vehicle-72",
+    "location": {
+      "latitude": "-34.050744",
+      "longitude": "-114.177310"
+    }
+  },
+  {
+    "id": "alert-608",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 608",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892964Z",
+    "vehicleId": "vehicle-98",
+    "location": {
+      "latitude": "82.697243",
+      "longitude": "-55.744523"
+    }
+  },
+  {
+    "id": "alert-609",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 609",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892969Z",
+    "vehicleId": "vehicle-10",
+    "location": {
+      "latitude": "-41.188921",
+      "longitude": "-97.148845"
+    }
+  },
+  {
+    "id": "alert-610",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 610",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892972Z",
+    "vehicleId": "vehicle-82",
+    "location": {
+      "latitude": "-76.079206",
+      "longitude": "36.938441"
+    }
+  },
+  {
+    "id": "alert-611",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 611",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892975Z",
+    "vehicleId": "vehicle-26",
+    "location": {
+      "latitude": "-55.806980",
+      "longitude": "82.912879"
+    }
+  },
+  {
+    "id": "alert-612",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 612",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892978Z",
+    "vehicleId": "vehicle-72",
+    "location": {
+      "latitude": "-17.283873",
+      "longitude": "135.612347"
+    }
+  },
+  {
+    "id": "alert-613",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 613",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892981Z",
+    "vehicleId": "vehicle-22",
+    "location": {
+      "latitude": "-47.047100",
+      "longitude": "-110.622496"
+    }
+  },
+  {
+    "id": "alert-614",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 614",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892986Z",
+    "vehicleId": "vehicle-72",
+    "location": {
+      "latitude": "62.572366",
+      "longitude": "140.103276"
+    }
+  },
+  {
+    "id": "alert-615",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 615",
+    "severity": "non-critical",
+    "timestamp": "2024-09-16T11:16:30.892989Z",
+    "vehicleId": "vehicle-88",
+    "location": {
+      "latitude": "-3.117168",
+      "longitude": "117.506752"
+    }
+  },
+  {
+    "id": "alert-616",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 616",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892994Z",
+    "vehicleId": "vehicle-65",
+    "location": {
+      "latitude": "-1.793975",
+      "longitude": "-29.123505"
+    }
+  },
+  {
+    "id": "alert-617",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 617",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.892997Z",
+    "vehicleId": "vehicle-42",
+    "location": {
+      "latitude": "-64.469057",
+      "longitude": "138.617427"
+    }
+  },
+  {
+    "id": "alert-618",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 618",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.893002Z",
+    "vehicleId": "vehicle-85",
+    "location": {
+      "latitude": "34.994239",
+      "longitude": "143.104160"
+    }
+  },
+  {
+    "id": "alert-619",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 619",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.893005Z",
+    "vehicleId": "vehicle-76",
+    "location": {
+      "latitude": "-70.263847",
+      "longitude": "174.230666"
+    }
+  },
+    {
+    "id": "alert-620",
+    "type": "VehicleAlert",
+    "message": "Alert message for vehicle 620",
+    "severity": "critical",
+    "timestamp": "2024-09-16T11:16:30.893008Z",
+    "vehicleId": "vehicle-73",
+    "location": {
+      "latitude": "-42.987654",
+      "longitude": "90.123456"
+    }
+  }
+]
