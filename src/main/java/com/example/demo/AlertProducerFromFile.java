@@ -16,7 +16,7 @@ public class AlertProducerFromFile {
 
     private final static String QUEUE_NAME = "vehicle_alert_queue";
     private final static int ALERTS_PER_SECOND = 1000;  // Target rate
-    private final static String FILE_PATH = "/home/akansha.singh/alert";
+    private final static String FILE_PATH = "/home/akansha.singh/Downloads/VehicleAlertSystem/vehicle_alerts.json";
 
     public static void main(String[] argv) throws Exception {
         ConnectionFactory factory = new ConnectionFactory();

@@ -1,44 +1,66 @@
 package com.example.demo;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;
-import lombok.Setter;
 
-@Setter
 @Getter
-@JsonIgnoreProperties(ignoreUnknown = true)
 public class VehicleAlert {
-    private String id;
-    private String type;
-    private String message;
-    private String severity;
-    private String timestamp;
-    private String vehicleId;
-    private Location location;
 
-    public VehicleAlert() {
-    }
+    private int id;
+    private boolean iotConnected;
+    private int batteryPercentage;
+    private String driveMode;
+    private String createdAt;
+    private String updatedAt;
+    private String imei;
+    private String batteryTemp;
+    private double co2Saved;
+    private double fuelSaved;
+    private String lastSeenAt;
+    private double latitude;
+    private double longitude;
+    private String vehicleCondition;
+    private int lastSpeed;
+    private int maxSpeed;
+    private double totalOperationalHours;
+    private double distanceTravelledToday;
+    private double totalOdometer;
+    private double dailyAvgSpeed;
+    private double monthlyRuntime;
+    private double totalEnergy;
+    private double totalChargeCurrent;
+    private double totalDischargeCurrent;
 
-    public VehicleAlert(String id, String type, String message, String severity, String timestamp, String vehicleId, Location location) {
+    // Constructor
+    public VehicleAlert(int id, boolean iotConnected, int batteryPercentage, String driveMode, String createdAt,
+                        String updatedAt, String imei, String batteryTemp, double co2Saved, double fuelSaved,
+                        String lastSeenAt, double latitude, double longitude, String vehicleCondition,
+                        int lastSpeed, int maxSpeed, double totalOperationalHours, double distanceTravelledToday,
+                        double totalOdometer, double dailyAvgSpeed, double monthlyRuntime, double totalEnergy,
+                        double totalChargeCurrent, double totalDischargeCurrent) {
         this.id = id;
-        this.type = type;
-        this.message = message;
-        this.severity = severity;
-        this.timestamp = timestamp;
-        this.vehicleId = vehicleId;
-        this.location = location;
+        this.iotConnected = iotConnected;
+        this.batteryPercentage = batteryPercentage;
+        this.driveMode = driveMode;
+        this.createdAt = createdAt;
+        this.updatedAt = updatedAt;
+        this.imei = imei;
+        this.batteryTemp = batteryTemp;
+        this.co2Saved = co2Saved;
+        this.fuelSaved = fuelSaved;
+        this.lastSeenAt = lastSeenAt;
+        this.latitude = latitude;
+        this.longitude = longitude;
+        this.vehicleCondition = vehicleCondition;
+        this.lastSpeed = lastSpeed;
+        this.maxSpeed = maxSpeed;
+        this.totalOperationalHours = totalOperationalHours;
+        this.distanceTravelledToday = distanceTravelledToday;
+        this.totalOdometer = totalOdometer;
+        this.dailyAvgSpeed = dailyAvgSpeed;
+        this.monthlyRuntime = monthlyRuntime;
+        this.totalEnergy = totalEnergy;
+        this.totalChargeCurrent = totalChargeCurrent;
+        this.totalDischargeCurrent = totalDischargeCurrent;
     }
-
-    @Override
-    public String toString() {
-        return "VehicleAlert{" +
-                "id='" + id + '\'' +
-                ", type='" + type + '\'' +
-                ", message='" + message + '\'' +
-                ", severity='" + severity + '\'' +
-                ", timestamp='" + timestamp + '\'' +
-                ", vehicleId='" + vehicleId + '\'' +
-                ", location=" + location +
-                '}';
-    }
+    public VehicleAlert() {}
 }
