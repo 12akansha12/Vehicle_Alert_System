@@ -1,0 +1,7 @@
+com\example\demo\WebSocketConfig.class
+com\example\demo\AlertConsumer.class
+com\example\demo\AlertWebSocketHandler.class
+com\example\demo\AlertProducerFromFile$1.class
+com\example\demo\Location.class
+com\example\demo\AlertProducerFromFile.class
+com\example\demo\VehicleAlert.class
